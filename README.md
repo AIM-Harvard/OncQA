@@ -57,3 +57,8 @@ Employment of GPT-4, an AI chatbot, for drafting responses to patient inquiries.
 AI-generated chatbot responses, while lengthier and less accessible, maintained safety standards and amplified documentation efficiency. AI intervention altered the nature of physician feedback and minimized variability. While AI chatbots offer solutions to physician burnout and can enhance patient care, interactions between humans and AI might inadvertently affect clinical decisions. Addressing these interactions is vital for the safe incorporation of such technologies.
 
 **Note**: It's imperative to delve deeper into human-AI interactions and their potential impact on outcomes.
+
+<!-- # Citation:
+  `OncQA: The Impact of Using an AI Chatbot to Respond to Patient Questions
+Shan Chen, Benjamin H Kann, Michael B Foote, Hugo JWL Aerts, Guergana K Savova, Raymond H Mak, Danielle S Bitterman
+JAMA Oncology. Published online August 24, 2023. doi:10.1001/jamaoncol.2023.2954` -->
