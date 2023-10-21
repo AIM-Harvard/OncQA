@@ -1,5 +1,5 @@
 
-## OncQA: The Impact of Using an AI Chatbot to Respond to Patient Questions
+## OncQA: The Impact of Using an AI Chatbot to Respond to Patient Messages
 
 ### Importance
 
