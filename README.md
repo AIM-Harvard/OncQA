@@ -45,6 +45,7 @@ Employment of GPT-4, an AI chatbot, for drafting responses to patient inquiries.
 - About 58% of GPT-4 drafts were immediately acceptable, with 82% posing a low risk of harm.
 - Utilizing the GPT-4 draft enhanced documentation efficiency in 77% of replies.
 - Surprisingly, 31% of GPT-4 responses were perceived to be human-written, despite being AI-generated.
+- 7.7% of survey responses felt unedited GPT-4 drafts could lead to severe harm or death.
   ![result 1](imgs/stage2.png)
 - Among 56 dual-annotated responses, annotation agreement was low for manual responses (Cohen's kappa 0.10), but improved for AI-assisted responses (Cohen's kappa 0.52).
 - AI-assistance led to differences in clinical content in the responses (p=0.001).
