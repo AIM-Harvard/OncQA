@@ -1,0 +1,2574 @@
+pin,Input,Output,ActiveOrSurveill,GenOrSpec
+0,"Sample 1 (active treatment):
+EHR Context:
+Age: 55 years
+Gender: Male
+Cancer diagnosis: Stage III non-small cell lung cancer (NSCLC)
+PMH: hypertension, hyperlipidemia
+Prior cancer treatments: None
+Current cancer treatments: radiotherapy with concurrent cisplatin (started 2 weeks ago)
+Current medication list: lisinopril, amlodipine, simvastatin, aspirin, pantoprazole
+Summary of most recent oncology visit (1 week ago): 55-year-old male with newly diagnosed stage III NSCLC. He is on chemoradiation and tolerating treatment well. No significant side effects were reported. Will continue treatment as planned.
+
+Patient message:
+I've been feeling more fatigued than usual for the past week, and I'm having trouble completing my daily tasks. Is this normal? Should I be concerned?
+","Yes, the provided information is sufficient to answer the patient's questions.
+
+Recommendations:
+
+Dear [Patient's Name],
+
+It is not uncommon for patients undergoing chemoradiation therapy, like the concurrent cisplatin and radiotherapy you are receiving, to experience fatigue. This can be a side effect of both the chemotherapy and the radiation therapy. It is important to monitor your fatigue levels and communicate any changes to your healthcare team.
+
+Here are some suggestions to help manage your fatigue:
+
+1. Prioritize your daily tasks and focus on the most important ones. It's okay to ask for help from friends and family when needed.
+2. Take short naps or rest breaks throughout the day, but try not to sleep for long periods during the day, as this can disrupt your nighttime sleep.
+3. Engage in light physical activity, such as walking or stretching, as tolerated. This can help improve your energy levels.
+4. Maintain a balanced diet and stay hydrated. Eating small, frequent meals can help maintain your energy levels.
+5. Practice relaxation techniques, such as deep breathing exercises or meditation, to help reduce stress and improve sleep quality.
+
+Please continue to monitor your symptoms and report any changes or concerns to your healthcare team. If your fatigue worsens or becomes unmanageable, it is important to discuss this with your oncologist, as they may need to adjust your treatment plan.
+
+Best regards,
+
+[Your Name]
+Oncologist",A,S
+1,"Sample 2 (active treatment):
+EHR Context:
+Age: 47 years
+Gender: Female
+Cancer diagnosis: Stage II invasive ductal carcinoma of the breast
+PMH: asthma, obesity
+Prior cancer treatments: lumpectomy (completed 2 months ago)
+Current cancer treatments: adjuvant doxorubicin/cyclophosphamide (started 1 month ago)
+Current medication list: albuterol, montelukast, metformin, aspirin, atorvastatin, vitamin D
+Summary of most recent oncology visit (3 weeks ago): 47-year-old female with a history of stage II breast cancer s/p lumpectomy. She is on adjuvant doxorubicin/cyclophosphamide and tolerating treatment well. Will continue treatment as planned.
+
+Patient message:
+I've noticed that my hair has started falling out more than usual. Is this a side effect of my treatment? What can I do to minimize hair loss?
+","Yes, the provided information is sufficient to answer the patient's questions.
+
+Dear [Patient's Name],
+
+I understand your concern about hair loss. It is not uncommon for patients undergoing chemotherapy, such as the adjuvant doxorubicin/cyclophosphamide treatment you are currently receiving, to experience hair loss as a side effect. This occurs because chemotherapy targets rapidly dividing cells, which includes both cancer cells and hair follicles.
+
+Here are some recommendations to help minimize hair loss and manage its impact:
+
+1. Be gentle with your hair: Use a soft-bristle brush, avoid tight hairstyles, and minimize the use of heat-styling tools.
+
+2. Consider cutting your hair short: This can make hair loss less noticeable and easier to manage.
+
+3. Use a gentle shampoo and conditioner: Look for products specifically designed for thinning hair or those labeled as ""gentle"" or ""moisturizing.""
+
+4. Protect your scalp: Wear a hat or sunscreen when outdoors to protect your scalp from sunburn and other environmental factors.
+
+5. Explore hair coverings: You may want to consider wearing a wig, scarf, or hat to help cope with hair loss. Some insurance plans may cover the cost of a wig, so it's worth checking with your provider.
+
+6. Be patient: Hair loss due to chemotherapy is typically temporary, and your hair should begin to grow back within a few months after completing treatment.
+
+Please don't hesitate to reach out if you have any further questions or concerns. We are here to support you throughout your treatment journey.
+
+Sincerely,
+
+[Your Name]
+Oncologist",A,S
+2,"Sample 3 (active treatment):
+EHR Context:
+Age: 68 years
+Gender: Male
+Cancer diagnosis: Stage IV colorectal cancer with liver metastases
+PMH: coronary artery disease, type 2 diabetes
+Prior cancer treatments: None
+Current cancer treatments: FOLFIRI + bevacizumab (started 2 months ago)
+Current medication list: metformin, aspirin, atorvastatin, metoprolol, lisinopril
+Summary of most recent oncology visit (6 weeks ago): 68-year-old male with newly diagnosed stage IV colorectal cancer with liver metastases. He is on first-line FOLFIRI + bevacizumab and tolerating treatment well. Will continue treatment as planned.
+
+Patient message:
+I've been experiencing severe diarrhea for the past three days. I've tried over-the-counter medications, but they don't seem to help. What should I do?
+","Yes, the provided information is sufficient to answer the patient's question.
+
+Dear [Patient's Name],
+
+I'm sorry to hear that you've been experiencing severe diarrhea for the past three days. Diarrhea can be a common side effect of the FOLFIRI chemotherapy regimen that you are currently receiving for your stage IV colorectal cancer. It's important to address this issue promptly to prevent dehydration and electrolyte imbalances.
+
+Here are my recommendations:
+
+1. Stay hydrated: Make sure to drink plenty of fluids, such as water, clear broth, or electrolyte replacement drinks (e.g., Gatorade or Pedialyte). Aim for at least 8-10 cups of fluid per day.
+
+2. Modify your diet: Try eating smaller, more frequent meals and avoid high-fiber, greasy, or spicy foods. Stick to a bland diet consisting of foods like bananas, rice, applesauce, and toast (also known as the BRAT diet).
+
+3. Over-the-counter medications: Since you mentioned that over-the-counter medications have not been helpful, I would recommend stopping them for now.
+
+4. Contact your healthcare team: It's important to inform your oncology team about your severe diarrhea, as they may need to adjust your chemotherapy regimen or prescribe a prescription-strength anti-diarrheal medication to help manage your symptoms.
+
+Please reach out to your oncology team as soon as possible to discuss your symptoms and receive further guidance. In the meantime, focus on staying hydrated and following the dietary recommendations provided.
+
+If you have any other questions or concerns, please don't hesitate to reach out.
+
+Sincerely,
+
+[Your Name]",A,S
+3,"Sample 4 (active treatment):
+EHR Context:
+Age: 72 years
+Gender: Female
+Cancer diagnosis: Stage III ovarian cancer
+PMH: osteoporosis, hypothyroidism
+Prior cancer treatments: debulking surgery (completed 3 months ago)
+Current cancer treatments: paclitaxel/carboplatin (started 2 months ago)
+Current medication list: levothyroxine, alendronate, calcium, vitamin D
+Summary of most recent oncology visit (4 weeks ago): 72-year-old female with stage III ovarian cancer s/p debulking surgery. She is on adjuvant paclitaxel/carboplatin and tolerating treatment well. Will continue treatment as planned.
+
+Patient message:
+I've been experiencing persistent abdominal bloating and discomfort for the past week. Is this a side effect of my treatment, or should I be concerned about something else?
+","The provided information is sufficient to address the patient's concerns.
+
+Dear [Patient's Name],
+
+I understand that you have been experiencing persistent abdominal bloating and discomfort for the past week. It is possible that these symptoms could be related to your ongoing chemotherapy treatment with paclitaxel and carboplatin, as these medications can sometimes cause gastrointestinal side effects.
+
+However, given your history of stage III ovarian cancer and recent debulking surgery, it is important to monitor these symptoms closely and rule out other potential causes. I recommend that you schedule an appointment with our office so we can further evaluate your symptoms and determine if any additional tests or interventions are needed.
+
+In the meantime, you can try some over-the-counter gas relief medications and maintain a balanced diet with adequate hydration to help alleviate your discomfort. Please do not hesitate to reach out if your symptoms worsen or if you have any other concerns.
+
+Best regards,
+
+[Your Name]
+Oncologist",A,S
+4,"Sample 5 (active treatment):
+EHR Context:
+Age: 39 years
+Gender: Male
+Cancer diagnosis: Stage IIA Hodgkin lymphoma
+PMH: None
+Prior cancer treatments: None
+Current cancer treatments: ABVD (started 1 month ago)
+Current medication list: None
+Summary of most recent oncology visit (2 weeks ago): 39-year-old male with newly diagnosed stage IIA Hodgkin lymphoma. He is on ABVD and tolerating treatment well. Will continue treatment as planned.
+
+Patient message:
+I've developed a persistent cough and shortness of breath over the past few days. Is this a side effect of my treatment, or should I be concerned about something else?
+","The provided information is sufficient to address the patient's concerns.
+
+Dear [Patient's Name],
+
+I understand that you have developed a persistent cough and shortness of breath over the past few days. It is possible that these symptoms could be related to your ABVD treatment, as one of the drugs in the regimen, bleomycin, can cause lung toxicity and lead to symptoms like cough and shortness of breath. However, it is also important to consider other potential causes, such as a respiratory infection or an unrelated lung issue.
+
+I recommend that you contact your healthcare team to discuss your symptoms in more detail. They may want to perform additional tests, such as a chest X-ray or pulmonary function tests, to better understand the cause of your symptoms and determine the appropriate course of action.
+
+In the meantime, please monitor your symptoms and seek immediate medical attention if they worsen or if you experience any additional concerning symptoms, such as chest pain, fever, or difficulty breathing.
+
+Best regards,
+
+[Your Name]",A,S
+5,"Sample 6 (active treatment):
+EHR Context:
+Age: 58 years
+Gender: Female
+Cancer diagnosis: Stage IV pancreatic adenocarcinoma
+PMH: hypertension, type 2 diabetes
+Prior cancer treatments: None
+Current cancer treatments: FOLFIRINOX (started 1 month ago)
+Current medication list: metformin, lisinopril, amlodipine, aspirin
+Summary of most recent oncology visit (2 weeks ago): 58-year-old female with newly diagnosed stage IV pancreatic adenocarcinoma. She is on first-line FOLFIRINOX and tolerating treatment well. Will continue treatment as planned.
+
+Patient message:
+I've been experiencing severe nausea and vomiting for the past two days. I've tried over-the-counter medications, but they don't seem to help. What should I do?
+","Yes, the provided information is sufficient to answer the patient's questions.
+
+Recommendations:
+
+1. It is important to inform your oncologist about the severe nausea and vomiting you are experiencing, as this could be a side effect of the FOLFIRINOX treatment. They may need to adjust your treatment plan or prescribe additional medications to help manage these symptoms.
+
+2. In the meantime, you can try some non-pharmacological methods to help alleviate nausea and vomiting, such as:
+   - Eating small, frequent meals instead of large meals
+   - Avoiding spicy, fatty, or fried foods
+   - Drinking clear liquids, such as water, broth, or ginger ale, in small sips
+   - Trying relaxation techniques, such as deep breathing exercises or meditation
+
+3. If your symptoms persist or worsen, it is crucial to contact your oncologist or healthcare team immediately, as severe nausea and vomiting can lead to dehydration and other complications. They may prescribe stronger anti-nausea medications or recommend other interventions to help manage your symptoms.",A,S
+6,"Sample 7 (active treatment):
+EHR Context:
+Age: 64 years
+Gender: Male
+Cancer diagnosis: Stage III multiple myeloma
+PMH: hypertension, hyperlipidemia
+Prior cancer treatments: None
+Current cancer treatments: bortezomib/lenalidomide/dexamethasone (started 2 months ago)
+Current medication list: lisinopril, amlodipine, simvastatin, aspirin
+Summary of most recent oncology visit (4 weeks ago): 64-year-old male with newly diagnosed stage III multiple myeloma. He is on first-line bortezomib/lenalidomide/dexamethasone and tolerating treatment well. Will continue treatment as planned.
+
+Patient message:
+I've been experiencing persistent lower back pain for the past week. Is this a side effect of my treatment, or should I be concerned about something else?
+","The provided information is sufficient to address the patient's concern about lower back pain.
+
+Recommendations:
+
+1. Lower back pain can be a side effect of your treatment, as both bortezomib and lenalidomide can cause muscle and joint pain. However, it is important to consider other potential causes of lower back pain, such as muscle strain or age-related degenerative changes.
+
+2. Multiple myeloma itself can also cause bone pain, including in the lower back, due to the presence of cancer cells in the bone marrow. It is important to monitor your pain and report any changes or worsening to your oncology team.
+
+3. In the meantime, you can try over-the-counter pain relievers, such as acetaminophen or ibuprofen, to help manage your lower back pain. Be sure to follow the recommended dosages and consult with your oncologist before starting any new medications.
+
+4. It is also important to maintain good posture and engage in gentle exercises, such as walking or stretching, to help alleviate lower back pain. If your pain persists or worsens, please contact your oncology team for further evaluation and guidance.",A,S
+7,"Sample 8 (active treatment):
+EHR Context:
+Age: 51 years
+Gender: Female
+Cancer diagnosis: Stage IIIB melanoma
+PMH: hypothyroidism, osteoarthritis
+Prior cancer treatments: wide local excision (completed 3 months ago)
+Current cancer treatments: nivolumab/ipilimumab (started 1 month ago)
+Current medication list: levothyroxine, ibuprofen, acetaminophen
+Summary of most recent oncology visit (2 weeks ago): 51-year-old female with stage IIIB melanoma s/p wide local excision. She is on adjuvant nivolumab/ipilimumab and tolerating treatment well. Will continue treatment as planned.
+
+Patient message:
+I've developed a rash on my arms and legs over the past few days. Is this a side effect of my treatment, or should I be concerned about something else?
+","The provided information is sufficient to address the patient's concern.
+
+Dear [Patient Name],
+
+Thank you for reaching out about the rash you've developed on your arms and legs. It is possible that the rash could be a side effect of your current cancer treatment with nivolumab/ipilimumab. Skin reactions, including rash, are known side effects of these medications.
+
+However, it is important to evaluate the rash further to determine if it is related to your treatment or if there is another cause. I recommend contacting your oncology team to schedule an appointment for a physical examination and further evaluation of the rash. In the meantime, avoid scratching the rash and keep the affected areas clean and dry.
+
+Please let me know if you have any other questions or concerns.
+
+Sincerely,
+
+[Your Name]
+Oncologist",A,S
+8,"Sample 9 (active treatment):
+EHR Context:
+Age: 45 years
+Gender: Male
+Cancer diagnosis: Stage IV renal cell carcinoma
+PMH: None
+Prior cancer treatments: None
+Current cancer treatments: sunitinib (started 2 months ago)
+Current medication list: None
+Summary of most recent oncology visit (4 weeks ago): 45-year-old male with newly diagnosed stage IV renal cell carcinoma. He is on first-line sunitinib and tolerating treatment well. Will continue treatment as planned.
+
+Patient message:
+I've been experiencing persistent headaches and dizziness for the past week. Is this a side effect of my treatment, or should I be concerned about something else?
+","The provided information is sufficient to address the patient's concerns.
+
+Dear patient,
+
+Persistent headaches and dizziness can be side effects of sunitinib, the medication you are currently taking for your stage IV renal cell carcinoma. However, it is essential to monitor these symptoms and report any changes or worsening to your healthcare team.
+
+I recommend that you contact your oncologist to discuss these symptoms in more detail. They may want to evaluate you further to rule out any other potential causes and determine if any adjustments to your treatment plan are necessary.
+
+In the meantime, make sure you are staying well-hydrated, getting adequate rest, and managing stress, as these factors can also contribute to headaches and dizziness.
+
+Please do not hesitate to reach out if you have any further questions or concerns.",A,S
+9,"Sample 10 (active treatment):
+EHR Context:
+Age: 70 years
+Gender: Female
+Cancer diagnosis: Stage IV diffuse large B-cell lymphoma
+PMH: hypertension, type 2 diabetes
+Prior cancer treatments: None
+Current cancer treatments: R-CHOP (started 1 month ago)
+Current medication list: metformin, lisinopril, amlodipine, aspirin
+Summary of most recent oncology visit (2 weeks ago): 70-year-old female with newly diagnosed stage IV diffuse large B-cell lymphoma. She is on R-CHOP and tolerating treatment well. Will continue treatment as planned.
+
+Patient message:
+I've been experiencing persistent fevers and chills for the past three days. Is this a side effect of my treatment, or should I be concerned about something else?
+","The provided information is sufficient to address the patient's concerns.
+
+Dear patient,
+
+I understand that you have been experiencing persistent fevers and chills for the past three days. While fevers can be a side effect of R-CHOP treatment, it is important to consider other potential causes as well. Infections can also cause fevers and chills, and patients undergoing chemotherapy may have a weakened immune system, making them more susceptible to infections.
+
+I recommend that you contact your healthcare team as soon as possible to discuss your symptoms. They may want to evaluate you for a possible infection and determine if any adjustments to your treatment plan are necessary. In the meantime, make sure to stay well-hydrated and monitor your temperature regularly.
+
+Please do not hesitate to reach out if you have any further questions or concerns.",A,S
+10,"Sample 11 (active treatment):
+EHR Context:
+Age: 60 years
+Gender: Male
+Cancer diagnosis: Stage III esophageal adenocarcinoma
+PMH: gastroesophageal reflux disease, hypertension
+Prior cancer treatments: None
+Current cancer treatments: neoadjuvant chemoradiotherapy (started 1 month ago)
+Current medication list: omeprazole, lisinopril, amlodipine, aspirin
+Summary of most recent oncology visit (2 weeks ago): 60-year-old male with newly diagnosed stage III esophageal adenocarcinoma. He is on neoadjuvant chemoradiotherapy and tolerating treatment well. Will continue treatment as planned.
+
+Patient message:
+I've been experiencing difficulty swallowing and pain when swallowing for the past week. Is this a side effect of my treatment, or should I be concerned about something else?
+","Yes, the provided information is sufficient to answer the patient's questions.
+
+Dear patient,
+
+Difficulty swallowing (dysphagia) and pain when swallowing (odynophagia) can be side effects of your neoadjuvant chemoradiotherapy for stage III esophageal adenocarcinoma. The treatment can cause inflammation and irritation of the esophagus, which may lead to these symptoms. 
+
+However, it is important to monitor these symptoms and keep your oncology team informed. They may recommend additional interventions to help manage your symptoms, such as pain medications, dietary modifications, or swallowing therapy. In some cases, if the symptoms become severe or persistent, your treatment plan may need to be adjusted.
+
+Please continue to communicate with your oncology team about your symptoms, and do not hesitate to reach out if you have any further concerns or questions.",A,S
+11,"Sample 12 (active treatment):
+EHR Context:
+Age: 63 years
+Gender: Male
+Cancer diagnosis: Stage III diffuse large B-cell lymphoma
+PMH: hypertension, hyperlipidemia
+Prior cancer treatments: None
+Current cancer treatments: R-CHOP (started 1 month ago)
+Current medication list: lisinopril, amlodipine, simvastatin, aspirin
+Summary of most recent oncology visit (2 weeks ago): 63-year-old male with newly diagnosed stage III diffuse large B-cell lymphoma. He is on R-CHOP and tolerating treatment well. Will continue treatment as planned.
+
+Patient message:
+I've been experiencing persistent fatigue and weakness for the past week. Is this a side effect of my treatment, or should I be concerned about something else?
+","Yes, the provided information is sufficient to answer the patient's question.
+
+Recommendations:
+
+Persistent fatigue and weakness can be a common side effect of R-CHOP chemotherapy treatment for diffuse large B-cell lymphoma. It is important to monitor your symptoms and communicate any changes or concerns to your healthcare team. Here are some suggestions to help manage your fatigue and weakness:
+
+1. Prioritize rest and sleep: Ensure you are getting adequate sleep at night and take short naps during the day if needed.
+2. Balance activity and rest: Engage in light physical activities such as walking or stretching, but also make sure to rest when needed.
+3. Maintain a healthy diet: Eating well-balanced meals can help provide the energy needed to combat fatigue.
+4. Stay hydrated: Drink plenty of water throughout the day.
+5. Manage stress: Practice relaxation techniques such as deep breathing, meditation, or gentle yoga to help reduce stress and improve your overall well-being.
+
+It is important to keep your healthcare team informed about your symptoms, as they can provide additional guidance and support. If your fatigue and weakness worsen or do not improve, please contact your oncologist for further evaluation.",A,S
+12,"Sample 13 (active treatment):
+EHR Context:
+Age: 52 years
+Gender: Male
+Cancer diagnosis: Stage III gastric adenocarcinoma
+PMH: peptic ulcer disease, hypertension
+Prior cancer treatments: None
+Current cancer treatments: FLOT regimen (started 1 month ago)
+Current medication list: omeprazole, lisinopril, amlodipine, aspirin
+Summary of most recent oncology visit (2 weeks ago): 52-year-old male with newly diagnosed stage III gastric adenocarcinoma. He is on peri-operative FLOT and tolerating treatment well. Will continue treatment as planned.
+
+Patient message:
+I've been experiencing persistent heartburn and indigestion for the past week. Is this a side effect of my treatment, or should I be concerned about something else?
+","The provided information is sufficient to answer the patient's question.
+
+Dear patient,
+
+I understand that you have been experiencing persistent heartburn and indigestion for the past week. It is possible that these symptoms could be related to your cancer treatment, as the FLOT regimen can sometimes cause gastrointestinal side effects. However, it is also important to consider your history of peptic ulcer disease, which could be contributing to these symptoms.
+
+I recommend that you continue taking your omeprazole as prescribed, as it can help manage heartburn and indigestion. Additionally, it may be helpful to avoid foods and beverages that can trigger these symptoms, such as spicy or fatty foods, caffeine, and alcohol. If your symptoms persist or worsen, please contact our office to discuss further evaluation and management.
+
+Please do not hesitate to reach out if you have any further questions or concerns.",A,S
+13,"Sample 14 (active treatment):
+EHR Context:
+Age: 43 years
+Gender: Female
+Cancer diagnosis: Stage II triple-negative breast cancer
+PMH: None
+Prior cancer treatments: lumpectomy (completed 2 months ago)
+Current cancer treatments: adjuvant dose-dense doxorubicin/cyclophosphamide (started 1 month ago)
+Current medication list: None
+Summary of most recent oncology visit (3 weeks ago): 43-year-old female with stage II triple-negative breast cancer s/p lumpectomy. She is on adjuvant dose-dense doxorubicin/cyclophosphamide and tolerating treatment well. Will continue treatment as planned.
+
+Patient message:
+I've been experiencing mouth sores and difficulty eating for the past few days. Is this a side effect of my treatment? What can I do to manage this?
+","Yes, the provided information is sufficient to answer the patient's questions.
+
+Dear [Patient Name],
+
+I'm sorry to hear that you've been experiencing mouth sores and difficulty eating. Yes, these symptoms can be side effects of your current cancer treatment, specifically the chemotherapy drugs doxorubicin and cyclophosphamide. Mouth sores, also known as oral mucositis, are a common side effect of chemotherapy.
+
+Here are some recommendations to help manage your mouth sores and difficulty eating:
+
+1. Maintain good oral hygiene: Brush your teeth gently with a soft-bristle toothbrush after every meal and before bedtime. Use a mild toothpaste and avoid mouthwashes containing alcohol.
+
+2. Keep your mouth moist: Drink plenty of water and suck on ice chips or sugar-free candies to help keep your mouth moist. You can also use a saliva substitute or mouth moisturizer if needed.
+
+3. Avoid irritants: Stay away from hot, spicy, or acidic foods and beverages, as they can worsen mouth sores. Also, avoid tobacco and alcohol, as they can further irritate your mouth.
+
+4. Choose soft foods: Opt for soft, bland foods that are easy to swallow, such as mashed potatoes, yogurt, and applesauce. You can also puree or blend foods to make them easier to eat.
+
+5. Manage pain: Over-the-counter pain relievers, such as acetaminophen, can help manage pain associated with mouth sores. You can also ask your healthcare provider about prescription medications or mouthwashes specifically designed to treat oral mucositis.
+
+Please keep in mind that it's important to discuss your symptoms with your healthcare team, as they can provide personalized recommendations and monitor your condition. Don't hesitate to reach out to us if you have any further questions or concerns.
+
+Best regards,
+
+[Your Name]",A,S
+14,"Sample 15 (active treatment):
+EHR Context:
+Age: 57 years
+Gender: Male
+Cancer diagnosis: Stage IV prostate cancer
+PMH: benign prostatic hyperplasia, hypertension
+Prior cancer treatments: None
+Current cancer treatments: androgen deprivation therapy + abiraterone (started 2 months ago)
+Current medication list: tamsulosin, lisinopril, amlodipine, aspirin
+Summary of most recent oncology visit (4 weeks ago): 57-year-old male with newly diagnosed stage IV prostate cancer. He is on androgen deprivation therapy + abiraterone and tolerating treatment well. Will continue treatment as planned.
+
+Patient message:
+I've been experiencing hot flashes and night sweats for the past week. Is this a side effect of my treatment, or should I be concerned about something else?
+","Yes, the provided information is sufficient to answer the patient's questions.
+
+Dear patient,
+
+The hot flashes and night sweats you are experiencing are likely side effects of your current cancer treatment, specifically the androgen deprivation therapy (ADT). ADT works by reducing the levels of male hormones (androgens) in your body, which can help slow the growth of prostate cancer. However, this reduction in androgens can also cause symptoms similar to those experienced by women during menopause, such as hot flashes and night sweats.
+
+It is important to discuss these side effects with your oncologist during your next visit, as they may be able to recommend strategies or medications to help manage these symptoms. In the meantime, you can try some self-care measures such as wearing light, breathable clothing, using fans or air conditioning, and avoiding triggers like caffeine, alcohol, and spicy foods.
+
+Please do not hesitate to reach out if you have any further questions or concerns.",A,S
+15,"Sample 16 (active treatment):
+EHR Context:
+Age: 49 years
+Gender: Female
+Cancer diagnosis: Stage IIIA epithelial ovarian cancer
+PMH: hypothyroidism, obesity
+Prior cancer treatments: debulking surgery (completed 3 months ago)
+Current cancer treatments: paclitaxel/carboplatin (started 2 months ago)
+Current medication list: levothyroxine, metformin, aspirin, atorvastatin, vitamin D
+Summary of most recent oncology visit (4 weeks ago): 49-year-old female with stage IIIA epithelial ovarian cancer s/p debulking surgery. She is on adjuvant paclitaxel/carboplatin and tolerating treatment well. Will continue treatment as planned.
+
+Patient message:
+I've been experiencing swelling in my legs and feet for the past few days. Is this a side effect of my treatment, or should I be concerned about something else?
+","The provided information is sufficient to address the patient's concerns.
+
+Dear [Patient Name],
+
+I'm sorry to hear that you've been experiencing swelling in your legs and feet. Swelling, also known as edema, can be a side effect of the chemotherapy drugs you are currently receiving, particularly paclitaxel. However, there are other potential causes for swelling, such as venous insufficiency, lymphedema, or even a blood clot (deep vein thrombosis).
+
+Given your medical history and current medications, it's important to evaluate the cause of the swelling to ensure proper management. I recommend contacting your healthcare team to schedule an appointment for a physical examination and further evaluation. In the meantime, you can try elevating your legs when sitting or lying down, and avoid standing for long periods to help alleviate the swelling.
+
+Please don't hesitate to reach out if you have any further questions or concerns.
+
+Sincerely,
+
+[Your Name]",A,S
+16,"Sample 17 (active treatment):
+EHR Context:
+Age: 61 years
+Gender: Male
+Cancer diagnosis: Stage IV glioblastoma multiforme
+PMH: hypertension, type 2 diabetes
+Prior cancer treatments: surgical resection (completed 2 months ago)
+Current cancer treatments: temozolomide + radiation therapy (started 1 month ago)
+Current medication list: metformin, lisinopril, amlodipine, aspirin
+Summary of most recent oncology visit (2 weeks ago): 61-year-old male with stage IV glioblastoma multiforme s/p resection. He is on adjuvant temozolomide + radiation therapy and tolerating treatment well. Will continue treatment as planned.
+
+Patient message:
+I've been experiencing worsening headaches and difficulty concentrating for the past week. Is this a side effect of my treatment, or should I be concerned about something else?
+","The provided information is sufficient to address the patient's concerns.
+
+Dear patient,
+
+I understand that you have been experiencing worsening headaches and difficulty concentrating for the past week. These symptoms can be related to your ongoing treatment with temozolomide and radiation therapy, as both can cause headaches and cognitive changes in some patients. However, given your diagnosis of stage IV glioblastoma multiforme, it is also important to consider the possibility of tumor progression or other complications.
+
+I recommend that you contact your oncology team to discuss these symptoms further. They may want to evaluate you in person and possibly perform imaging studies to assess the current status of your tumor and rule out any other potential causes for your symptoms. In the meantime, make sure to stay well-hydrated, get adequate rest, and manage your stress levels, as these factors can also contribute to headaches and difficulty concentrating.
+
+Please do not hesitate to reach out if you have any further questions or concerns.",A,S
+17,"Sample 18 (active treatment):
+EHR Context:
+Age: 65 years
+Gender: Female
+Cancer diagnosis: Stage IIIB non-small cell lung cancer (NSCLC)
+PMH: chronic obstructive pulmonary disease, hypertension
+Prior cancer treatments: concurrent carboplatin/pemetrexed and radiotherapy 
+Current cancer treatments: durvalumaby (started 3 months ago)
+Current medication list: tiotropium, albuterol, lisinopril, amlodipine, aspirin
+Summary of most recent oncology visit (4 weeks ago): 65-year-old female with unresectable stage IIIB NSCLC. She is on consolidation durvalumabd and tolerating treatment well. Will continue treatment as planned.
+
+Patient message:
+I've been experiencing shortness of breath and a persistent cough for the past week. Is this a side effect of my treatment, or should I be concerned about something else?
+","The provided information is sufficient to address the patient's concerns.
+
+Dear [Patient's Name],
+
+I understand that you have been experiencing shortness of breath and a persistent cough for the past week. It is possible that these symptoms could be related to your current treatment with durvalumab, as respiratory side effects can occur. However, given your history of chronic obstructive pulmonary disease (COPD), it is also possible that your symptoms are related to an exacerbation of your COPD.
+
+I recommend that you schedule an appointment with your healthcare team as soon as possible to further evaluate your symptoms. They may want to perform additional tests or adjust your medications to help manage your symptoms. In the meantime, please continue to take your prescribed medications, including tiotropium and albuterol, as directed.
+
+Please do not hesitate to reach out if you have any further questions or concerns.
+
+Sincerely,
+
+[Your Name]",A,S
+18,"Sample 19 (active treatment):
+EHR Context:
+Age: 54 years
+Gender: Male
+Cancer diagnosis: Stage IV hepatocellular carcinoma
+PMH: cirrhosis, hepatitis C
+Prior cancer treatments: None
+Current cancer treatments: sorafenib (started 2 months ago)
+Current medication list: lactulose, spironolactone, furosemide, ledipasvir/sofosbuvir
+Summary of most recent oncology visit (6 weeks ago): 54-year-old male with newly diagnosed stage IV hepatocellular carcinoma. He is on first-line sorafenib and tolerating treatment well. Will continue treatment as planned.
+
+Patient message:
+I've been experiencing abdominal pain and swelling for the past few days. Is this a side effect of my treatment, or should I be concerned about something else?
+","The provided information is sufficient to address the patient's concerns.
+
+Dear patient,
+
+Abdominal pain and swelling can be caused by various factors. In your case, it could be related to your underlying cirrhosis or a side effect of your current medications. Sorafenib, the medication you are taking for your hepatocellular carcinoma, can cause abdominal pain as a side effect. Additionally, your cirrhosis and medications for managing it, such as spironolactone and furosemide, can contribute to fluid retention and abdominal swelling.
+
+It is important to monitor your symptoms and report any changes or worsening to your healthcare team. If the pain and swelling become severe or persistent, I recommend contacting your healthcare provider for further evaluation and management. They may need to adjust your medications or investigate other potential causes for your symptoms.
+
+Please do not hesitate to reach out if you have any further questions or concerns.",A,S
+19,"Sample 20 (active treatment):
+EHR Context:
+Age: 59 years
+Gender: Female
+Cancer diagnosis: Stage IV cholangiocarcinoma
+PMH: hypertension, type 2 diabetes
+Prior cancer treatments: None
+Current cancer treatments: gemcitabine/cisplatin (started 2 months ago)
+Current medication list: metformin, lisinopril, amlodipine, aspirin
+Summary of most recent oncology visit (4 weeks ago): 59-year-old female with newly diagnosed stage IV cholangiocarcinoma. She is on first-line gemcitabine/cisplatin and tolerating treatment well. Will continue treatment as planned.
+
+Patient message:
+I've been experiencing persistent itching and yellowing of my skin for the past week. Is this a side effect of my treatment, or should I be concerned about something else?","Based on the provided information, it is possible that the persistent itching and yellowing of your skin could be related to your cholangiocarcinoma or a side effect of your treatment. However, it is important to consider other potential causes as well.
+
+The yellowing of your skin, also known as jaundice, can be a sign of liver dysfunction, which could be related to your stage IV cholangiocarcinoma. Itching can also be associated with liver problems. Additionally, cisplatin, one of the chemotherapy drugs you are receiving, can sometimes cause liver toxicity, which could contribute to these symptoms.
+
+I recommend that you contact your oncologist as soon as possible to discuss these symptoms. They may want to perform blood tests to check your liver function and assess whether any adjustments to your treatment plan are necessary.",A,S
+20,"1. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 62 years
+Gender: Female
+Cancer diagnosis: Metastatic cervical squamous cell carcinoma
+PMH: hypothyroidism, diabetes
+Prior cancer treatments: radical hysterectomy and adjuvant chemoradiotherapy (completed 1 year ago)
+Current cancer treatments: chemotherapy and immunotherapy (started 2 months ago)
+Current medication list: levothyroxine, metformin, acetaminophen, aspirin, atorvastatin, vitamin D
+Summary of most recent oncology visit (6 weeks ago): 62 year old female with a history of cervical cancer s/p hysterectomy and adjuvant cisplatin-based chemoradiotherapy, now with distant recurrence to the liver and lungs. She is on first-line systemic therapy, and is doing well overall with mild neuropathy. Will continue treatment as planned.
+
+Patient message:
+I've been experiencing persistent pelvic pain for the past two weeks. I tried ibuprofen, but it didn't help much. What should I do to feel better? Do I need to go to the emergency room?
+","Based on the provided information, I can provide some recommendations, but it would be helpful to know more about the severity and nature of the pelvic pain, as well as any other associated symptoms.
+
+Recommendations:
+1. Continue taking acetaminophen as needed for pain relief, following the recommended dosing instructions.
+2. You may try applying a warm or cold pack to the painful area for 15-20 minutes several times a day to help alleviate the pain.
+3. If the pain is not improving or worsening, it is important to contact your oncologist to discuss the symptoms and determine if further evaluation is necessary.
+
+It is not necessary to go to the emergency room at this time unless the pain becomes severe, you develop a fever, or experience other concerning symptoms such as vomiting, severe constipation, or heavy vaginal bleeding. In such cases, it is important to seek immediate medical attention.
+
+Please keep in mind that this is general advice and it is important to discuss your symptoms with your oncologist for personalized recommendations.",A,G
+21,"2. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 58 years
+Gender: Male
+Cancer diagnosis: Stage II colorectal adenocarcinoma
+PMH: hypertension, hyperlipidemia
+Prior cancer treatments: surgery, adjuvant chemotherapy (completed 4 years ago)
+Current cancer treatments: chemotherapy (started 3 weeks ago)
+Current medication list: lisinopril, atorvastatin, aspirin, metoprolol, loperamide
+Summary of most recent oncology visit (4 weeks ago): 58 year old male with a history of colorectal cancer s/p surgery and adjuvant chemotherapy, now with no evidence of disease on recent imaging. He is tolerating the chemotherapy well with minimal side effects. Will continue treatment as planned.
+
+Patient message:
+I've been experiencing worsening low back pain for the past week and fell twice yesterday. What should I do?
+","The provided information is not sufficient to fully address the patient's concerns about worsening low back pain and falls. To provide appropriate recommendations, I would need more information from the patient's EHR, including:
+
+1. Any recent changes in the patient's medication that could be contributing to the back pain or falls.
+2. Any history of musculoskeletal issues, such as previous back injuries or chronic pain.
+3. Any recent imaging or lab results that could indicate a potential cause for the back pain or falls.
+4. Any neurological or balance issues that the patient may have experienced in the past.
+
+Once I have this additional information, I can provide a more informed recommendation for the patient. In the meantime, it is important for the patient to contact their healthcare provider to discuss their symptoms and receive appropriate guidance.",A,G
+22,"3. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 54 years
+Gender: Female
+Cancer diagnosis: Stage II triple-negative breast cancer
+PMH: none
+Prior cancer treatments: lumpectomy, adjuvant chemotherapy and radiation therapy (completed 10 years ago)
+Current cancer treatments: chemotherapy and targeted therapy (started 1 month ago)
+Current medication list: metformin, pregabalin
+Summary of most recent oncology visit (2 weeks ago): 54 year old female with a history of breast cancer s/p lumpectomy, adjuvant chemotherapy, and radiation therapy, now on neoadjuvant chemotherapy and targeted therapy. She is tolerating the treatment well with no significant side effects. Will continue treatment as planned.
+
+Patient message:
+I noticed a new lump in my breast while showering yesterday. Should I be concerned? Should I schedule an appointment or wait until my next oncology visit?
+","The provided information is sufficient to answer the patient's questions.
+
+Recommendations:
+
+1. It is understandable that you are concerned about the new lump in your breast. Although you are currently undergoing chemotherapy and targeted therapy, it is important to promptly evaluate any new lumps or changes in your breast.
+
+2. I recommend scheduling an appointment with your oncologist as soon as possible, rather than waiting for your next scheduled visit. This will allow for a timely assessment of the lump and any necessary additional tests or imaging studies.
+
+3. In the meantime, continue to monitor the lump and take note of any changes in size, shape, or texture. This information will be helpful for your oncologist during the evaluation.
+
+Remember, it is always better to address any concerns promptly to ensure the best possible care and outcomes.",A,G
+23,"4. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 47 years
+Gender: Male
+Cancer diagnosis: Stage IV non-small cell lung cancer
+PMH: chronic obstructive pulmonary disease (COPD), hypertension
+Prior cancer treatments: none
+Current cancer treatments: chemo-immunotherapy (started 2 weeks ago)
+Current medication list: albuterol inhaler, fluticasone/salmeterol inhaler, amlodipine, lisinopril, atorvastatin, ibuprofen
+Summary of most recent oncology visit (1 week ago): 47 year old male with a new diagnosis of metastatic lung cancer. He has started first-line systemic therapy and is scheduled for imaging in about 2 months to assess response. No significant side effects noted. Will continue treatment as planned.
+
+Patient message:
+I've been experiencing shortness of breath and wheezing. Is this normal? Should I adjust my medications or contact the oncology clinic?
+","The provided information is sufficient to address the patient's concerns.
+
+Recommendations:
+
+1. It is important to note that shortness of breath and wheezing could be related to your pre-existing chronic obstructive pulmonary disease (COPD). However, these symptoms could also be side effects of your cancer treatment or a sign of disease progression.
+
+2. Continue using your albuterol inhaler and fluticasone/salmeterol inhaler as prescribed for your COPD. These medications should help alleviate some of the shortness of breath and wheezing.
+
+3. Monitor your symptoms closely. If they worsen or do not improve, it is essential to contact your oncology clinic. They may need to adjust your medications or further evaluate your symptoms to determine if they are related to your cancer treatment or disease progression.
+
+4. It is always a good idea to keep your oncology team informed about any new or worsening symptoms you experience during your cancer treatment. They can provide guidance and support to help manage your symptoms and ensure your treatment is as effective and safe as possible.",A,G
+24,"5. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 69 years
+Gender: Female
+Cancer diagnosis: Stage III ovarian serous carcinoma
+PMH: hypertension, osteoporosis
+Prior cancer treatments: debulking surgery, adjuvant chemotherapy (completed 8 months ago)
+Current cancer treatments: chemotherapy (started 2 months ago)
+Current medication list: amlodipine, lisinopril, alendronate, calcium with vitamin D, acetaminophen
+Summary of most recent oncology visit (1 week ago): 69 year old female with a history of ovarian cancer s/p debulking surgery and adjuvant chemotherapy, now with suspected recurrence based on rising tumor markers. She has started chemotherapy and is tolerating it well with minimal side effects. Will continue treatment as planned.
+
+Patient message:
+I've been feeling extremely fatigued lately and my appetite has decreased significantly. Is this common? Should I be concerned?
+","Yes, the provided information is sufficient to answer the patient's questions.
+
+Dear [Patient's Name],
+
+I understand that you have been experiencing extreme fatigue and a decreased appetite. These symptoms are common side effects of chemotherapy, and it is not unusual for patients undergoing treatment to experience them. However, it is important to monitor these symptoms and ensure they do not become severe or impact your overall health.
+
+Here are some recommendations to help manage your fatigue and appetite:
+
+1. Prioritize rest and sleep: Make sure you are getting enough sleep at night and take short naps during the day if needed. Try to maintain a consistent sleep schedule and create a relaxing bedtime routine.
+
+2. Stay active: Engage in light physical activities such as walking or stretching, as tolerated. This can help improve your energy levels and overall well-being.
+
+3. Eat small, frequent meals: Instead of three large meals, try eating smaller meals more frequently throughout the day. This can help maintain your energy levels and make it easier to consume enough nutrients.
+
+4. Stay hydrated: Drink plenty of fluids, such as water, juice, or broth, to stay hydrated and help with digestion.
+
+5. Speak with a dietitian: A dietitian can provide personalized recommendations to help manage your appetite and ensure you are getting the necessary nutrients during your treatment.
+
+Please continue to monitor your symptoms and report any changes or concerns to your healthcare team. We are here to support you throughout your treatment journey.
+
+Best regards,
+
+[Your Name]
+Oncologist",A,G
+25,"6. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 56 years
+Gender: Male
+Cancer diagnosis: locally advanced pancreatic adenocarcinoma
+PMH: diabetes, hyperlipidemia, chronic pancreatitis
+Prior cancer treatments: none
+Current cancer treatments: chemotherapy and radiation therapy (started 3 weeks ago)
+Current medication list: insulin glargine, metformin, atorvastatin, omeprazole
+Summary of most recent oncology visit (1 week ago): 56 year old male with a new diagnosis of locally advanced pancreatic cancer. He has started first-line systemic therapy and concurrent radiation therapy. Mild nausea and fatigue noted, but overall tolerating treatment. Will continue treatment as planned.
+
+Patient message:
+I've been experiencing severe abdominal pain and vomiting since this morning. Should I go to the emergency room?
+","Based on the provided information, it is possible that the severe abdominal pain and vomiting could be related to the patient's chemotherapy and radiation therapy, or it could be due to another underlying issue such as pancreatitis or an unrelated gastrointestinal issue. 
+
+Given the severity of the symptoms and the patient's medical history, I would recommend the patient to go to the emergency room for further evaluation and management. It is important to rule out any serious complications or side effects from the cancer treatments, as well as to address any other potential causes of the symptoms. The emergency room staff will be able to perform necessary tests and provide appropriate treatment to help alleviate the patient's symptoms.",A,G
+26,"7. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 63 years
+Gender: Female
+Cancer diagnosis: Stage II triple-negative breast cancer
+PMH: hypertension, osteoporosis
+Prior cancer treatments: lumpectomy, adjuvant chemotherapy and radiation therapy (completed 4 years ago)
+Current cancer treatments: chemotherapy (started 1 month ago)
+Current medication list: lisinopril, alendronate, calcium with vitamin D, ibuprofen, ondansetron
+Summary of most recent oncology visit (3 weeks ago): 63 year old female with a history of breast cancer s/p lumpectomy, adjuvant chemotherapy, and radiation therapy, now with recurrence in the lungs, on first-line chemo. She is tolerating the treatment well with mild fatigue. Will continue treatment as planned.
+
+Patient message:
+I am feeling nauseous and have had a horrible headache for the past few days. I have Zofran at home which helped the nausea a little, but Tylenol isn‚Äôt doing anything for the headache. What should I do?.
+","Yes, the provided information is sufficient to answer the patient's questions and provide recommendations.
+
+Dear [Patient's Name],
+
+I'm sorry to hear that you're experiencing nausea and headaches. It's not uncommon for these symptoms to occur during chemotherapy treatment. I'm glad to hear that the Zofran (ondansetron) has provided some relief for your nausea. 
+
+Regarding your headache, since Tylenol (acetaminophen) hasn't been effective, you may try taking ibuprofen, which is already on your medication list, to help alleviate the headache. Please follow the dosing instructions on the bottle and do not exceed the recommended daily dose. If the headache persists or worsens, please contact our office to schedule an appointment for further evaluation.
+
+In addition to medication, make sure you're staying well-hydrated, as dehydration can contribute to headaches. Aim to drink at least 8 cups of water per day, unless otherwise advised by your healthcare team.
+
+If your nausea continues to be bothersome, please let us know, as we may need to adjust your anti-nausea medication or explore other options to help manage this side effect.
+
+Please don't hesitate to reach out if you have any further concerns or questions.
+
+Sincerely,
+
+[Your Name]
+[Your Title]",A,G
+27,"8. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 42 years
+Gender: Male
+Cancer diagnosis: Stage III Hodgkin's lymphoma
+PMH: none
+Prior cancer treatments: none
+Current cancer treatments: chemotherapy and immunotherapy (started 4 weeks ago)
+Current medication list: None
+Summary of most recent oncology visit (1 week ago): 42 year old male recently diagnosed with Hodgkin's lymphoma. He has started first-line systemic therapy and is tolerating it well with no significant side effects. Will continue treatment as planned.
+
+Patient message:
+I am feeling short of breath and my arm is starting to swell up. Is this normal?
+","The provided information is not sufficient to definitively determine the cause of the patient's shortness of breath and arm swelling. However, I can provide some possible explanations and recommendations based on the available information.
+
+Possible explanations for shortness of breath and arm swelling:
+1. Infection: Infections can cause swelling and shortness of breath, especially if the patient's immune system is weakened due to chemotherapy and immunotherapy.
+2. Blood clot: A blood clot in the arm could cause swelling and shortness of breath if it travels to the lungs (pulmonary embolism).
+3. Allergic reaction: An allergic reaction to the chemotherapy or immunotherapy could cause swelling and shortness of breath.
+4. Heart-related issues: Chemotherapy can sometimes cause heart-related side effects, which could lead to shortness of breath and swelling.
+
+Recommendations:
+1. Contact your healthcare provider immediately to report your symptoms and receive further evaluation.
+2. If you experience worsening shortness of breath, chest pain, or any other severe symptoms, seek emergency medical attention.
+
+Additional information needed from EHR:
+1. Vital signs from the most recent oncology visit, including blood pressure, heart rate, and oxygen saturation.
+2. Any history of allergies or previous reactions to medications.
+3. Any recent laboratory results, including complete blood count, coagulation profile, and markers of infection or inflammation.",A,G
+28,"9. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 58 years
+Gender: Female
+Cancer diagnosis: Metastatic colorectal adenocarcinoma
+PMH: diabetes, hypertension
+Prior cancer treatments: surgery, adjuvant chemotherapy with oxaliplatin and capecitabine (completed 3 years ago)
+Current cancer treatments: chemotherapy only (started 2 months ago)
+Current medication list: metformin, lisinopril, atorvastatin, aspirin, insulin glulisine
+Summary of most recent oncology visit (6 weeks ago): 58 year old female with a history of colorectal cancer s/p surgery and adjuvant chemotherapy, now with distant metastases involving the liver, lungs. Since starting systemic therapy, she has had mild diarrhea. Will continue treatment as planned.
+
+Patient message:
+I feel really lightheaded this morning. I almost passed out when I got up from bed but my husband caught me. Is there anything I can do to feel better?
+","The provided information is not sufficient to definitively determine the cause of the patient's lightheadedness. However, I can provide some general recommendations and suggest further evaluation.
+
+Recommendations:
+1. Ensure the patient is well-hydrated by encouraging her to drink water and other fluids.
+2. Advise the patient to get up slowly from a lying or sitting position to minimize the risk of lightheadedness.
+3. Encourage the patient to monitor her blood sugar levels, as she has diabetes and is on insulin and metformin. Hypoglycemia (low blood sugar) can cause lightheadedness.
+
+Additional information needed:
+1. Vital signs, including blood pressure and heart rate, to assess for orthostatic hypotension or other abnormalities.
+2. Recent laboratory results, including complete blood count, electrolytes, and kidney function, to evaluate for anemia, electrolyte imbalances, or renal dysfunction.
+3. Information on the specific chemotherapy regimen the patient is currently receiving, as some chemotherapy agents can cause side effects such as lightheadedness or dizziness.
+
+Please schedule an appointment with the patient's healthcare provider for a thorough evaluation and to determine the cause of her lightheadedness.",A,G
+29,"10. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 61 years
+Gender: Male
+Cancer diagnosis: Stage IV prostate adenocarcinoma
+PMH: benign prostatic hyperplasia (BPH), coronary artery disease
+Prior cancer treatments: none
+Current cancer treatments: chemotherapy and androgen deprivation therapy (started 1 month ago)
+Current medication list: tamsulosin, metoprolol, atorvastatin, aspirin, finasteride
+Summary of most recent oncology visit (2 weeks ago): 61 year old male with a new diagnosis of metastatic prostate cancer. He has started first-line systemic therapy and androgen deprivation therapy. Mild fatigue and hot flashes noted, but overall tolerating treatment. Will continue treatment as planned.
+
+Patient message:
+I've been experiencing several hot flashes throughout the day and night. Is this a common side effect of the treatment? Can I do anything to manage these symptoms?
+
+","Yes, the provided information is sufficient to answer the patient's questions.
+
+Dear [Patient's Name],
+
+I understand that you have been experiencing hot flashes throughout the day and night. Hot flashes are indeed a common side effect of androgen deprivation therapy (ADT), which you are currently receiving as part of your treatment for metastatic prostate cancer. These hot flashes can be uncomfortable and disruptive, but there are several strategies you can try to manage them:
+
+1. Dress in layers: Wearing light, breathable clothing in layers can help you adjust to temperature changes more easily. You can remove or add layers as needed to stay comfortable.
+
+2. Keep your environment cool: Maintain a cool and comfortable temperature in your living and sleeping areas. Using a fan or air conditioning can help.
+
+3. Stay hydrated: Drink plenty of water throughout the day to help regulate your body temperature.
+
+4. Avoid triggers: Some common triggers for hot flashes include spicy foods, caffeine, and alcohol. Try to identify and avoid any triggers that may worsen your symptoms.
+
+5. Practice relaxation techniques: Deep breathing exercises, meditation, and other relaxation techniques can help reduce the frequency and intensity of hot flashes.
+
+6. Maintain a healthy lifestyle: Regular exercise and a balanced diet can help improve your overall well-being and may help reduce hot flash symptoms.
+
+If your hot flashes continue to be bothersome or worsen, please let me know during your next appointment or reach out to our office. We can discuss additional options for managing your symptoms, such as medications that may help alleviate hot flashes.
+
+Please don't hesitate to reach out if you have any further questions or concerns.
+
+Sincerely,
+
+[Your Name]
+Oncologist",A,G
+30,"11. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 49 years
+Gender: Female
+Cancer diagnosis: Stage IIIA lung adenocarcinoma
+PMH: asthma, obesity
+Prior cancer treatments: none
+Current cancer treatments: chemotherapy and radiation therapy (started 3 weeks ago)
+Current medication list: albuterol inhaler, fluticasone inhaler, montelukast, ibuprofen
+Summary of most recent oncology visit (1 week ago): 49 year old female with a new diagnosis of locally advanced lung cancer. She has started first-line systemic therapy and concurrent radiation therapy. Mild cough and fatigue noted, but overall tolerating treatment well. Will start guaifenesin and continue treatment as planned.
+
+Patient message:
+I've been experiencing increased shortness of breath and wheezing even with the guaifenesin. Should I adjust my asthma medications?
+","The provided information is sufficient to address the patient's concerns. However, it is important to note that I am an AI language model and not a medical professional. I would recommend discussing any changes to medications with your healthcare provider.
+
+Based on the information provided, it seems that you are experiencing increased shortness of breath and wheezing despite using guaifenesin. This could be due to your asthma, the cancer itself, or side effects from your cancer treatments. It is important to monitor your symptoms and report any changes to your healthcare team.
+
+In the meantime, you may consider the following recommendations:
+
+1. Continue using your albuterol inhaler as needed for shortness of breath and wheezing. This is a rescue medication that can provide quick relief for asthma symptoms.
+
+2. Ensure that you are using your fluticasone inhaler and montelukast as prescribed. These medications help control asthma symptoms over time and should be taken regularly.
+
+3. Keep track of your symptoms and any potential triggers. This can help your healthcare team determine if adjustments to your asthma medications are necessary.
+
+4. Reach out to your healthcare provider to discuss your symptoms and concerns. They may recommend additional tests or adjustments to your medications based on your specific situation.
+
+Remember, it is essential to consult with your healthcare provider before making any changes to your medications or treatment plan.",A,G
+31,"12. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 71 years
+Gender: Male
+Cancer diagnosis: favorable intermediate risk prostate adenocarcinoma
+PMH: benign prostatic hyperplasia (BPH), hypertension
+Prior cancer treatments: none
+Current cancer treatments: radiation therapy (started 2 weeks ago)
+Current medication list: tamsulosin, amlodipine, lisinopril, atorvastatin, aspirin
+Summary of most recent oncology visit (1 week ago): 71 year old male with a new diagnosis of intermediate-risk prostate cancer, on definitive radiotherapy. No significant side effects reported. Will continue treatment as planned.
+
+Patient message:
+I haven‚Äôt been able to urinate all day and it is becoming very painful What should I do?
+","The provided information is sufficient to address the patient's concern.
+
+Recommendations:
+
+1. It is possible that your difficulty in urinating is due to a combination of your benign prostatic hyperplasia (BPH) and the radiation therapy you are currently undergoing. The radiation therapy can cause inflammation and swelling, which may exacerbate your BPH symptoms.
+
+2. Since you are already taking tamsulosin for BPH, it is important to ensure you are taking it as prescribed. If you have missed any doses, resume taking it as directed.
+
+3. In the meantime, try some non-pharmacological measures to help with urination, such as sitting down to urinate, relaxing and taking deep breaths, or running warm water over your perineal area.
+
+4. If you still cannot urinate or if the pain worsens, it is crucial to seek immediate medical attention, as this could be a sign of acute urinary retention, which requires prompt treatment. You can go to the nearest emergency department or urgent care center for evaluation and management.
+
+5. Additionally, inform your oncologist about this issue, as they may need to adjust your treatment plan or provide additional recommendations based on your specific situation.",A,G
+32,"13. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 55 years
+Gender: Female
+Cancer diagnosis: Stage IV gastric adenocarcinoma
+PMH: GERD, anemia
+Prior cancer treatments: none
+Current cancer treatments: chemotherapy and targeted therapy (started 2 months ago)
+Current medication list: omeprazole, iron supplement
+Summary of most recent oncology visit (4 weeks ago): 55 year old female with a new diagnosis of metastatic gastric cancer. She is on first-line systemic therapy. Mild nausea and fatigue noted, but overall tolerating treatment. 
+
+Patient message:
+I've been experiencing persistent heartburn and acid reflux despite taking the omeprazole. Should I change my dosage?
+","The provided information is sufficient to address the patient's concern about persistent heartburn and acid reflux. 
+
+Recommendations:
+
+1. It is important to first discuss these symptoms with your oncologist, as they may be related to your gastric cancer or the chemotherapy and targeted therapy you are currently receiving. Your oncologist may want to evaluate your symptoms further and consider adjusting your treatment plan if necessary.
+
+2. In the meantime, you can try some lifestyle modifications to help alleviate your heartburn and acid reflux symptoms. These may include:
+   - Avoiding large meals and eating smaller, more frequent meals throughout the day
+   - Avoiding lying down or going to bed within 2-3 hours after eating
+   - Elevating the head of your bed by 6-8 inches to prevent stomach acid from flowing back into the esophagus
+   - Avoiding foods and beverages that can trigger heartburn, such as spicy or fatty foods, chocolate, caffeine, and alcohol
+   - Maintaining a healthy weight and engaging in regular physical activity, as recommended by your healthcare team
+
+3. Regarding your omeprazole dosage, it is not advisable to change the dosage without consulting your healthcare provider. They will be able to assess your symptoms and determine if a dosage adjustment or a different medication is necessary.
+
+Please consult with your oncologist to discuss your symptoms and receive personalized recommendations based on your specific situation.",A,G
+33,"14. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 64 years
+Gender: Male
+Cancer diagnosis: Stage III melanoma
+PMH: hypertension, hyperlipidemia
+Prior cancer treatments: wide excision and sentinel lymph node biopsy (completed 3 months ago)
+Current cancer treatments:  immunotherapy (started 5 months ago) 
+Current medication list: lisinopril, atorvastatin, aspirin
+Summary of most recent oncology visit (2 weeks ago): 64 year old male with a history of melanoma s/p surgery, now on adjuvant immunotherapy. Overall tolerating treatment. 
+
+Patient message:
+I've been experiencing joint pain in my knees and shoulders. Is this expected? Do I need to be evaluated? 
+
+","The provided information is sufficient to address the patient's concerns.
+
+Dear [Patient's Name],
+
+I understand that you have been experiencing joint pain in your knees and shoulders. Joint pain can be a side effect of immunotherapy, which you are currently receiving as part of your melanoma treatment. It is important to monitor and manage these symptoms to ensure your comfort and overall well-being.
+
+I recommend that you schedule an appointment with your oncology team to discuss your joint pain further. They can evaluate your symptoms, determine if they are related to your immunotherapy, and recommend appropriate management strategies. In the meantime, you can try over-the-counter pain relievers such as acetaminophen or ibuprofen to help alleviate your joint pain. However, please consult with your healthcare team before starting any new medications.
+
+Please do not hesitate to reach out if you have any further questions or concerns.
+
+Sincerely,
+
+[Your Name]
+Oncologist",A,G
+34,"15. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 71 years
+Gender: Female
+Cancer diagnosis: Stage II breast cancer
+PMH: osteoporosis, osteoarthritis
+Prior cancer treatments: lumpectomy, adjuvant radiation therapy (completed 2 weeks ago)
+Current cancer treatments: tamoxifen (started 1 week ago)
+Current medication list: alendronate, calcium with vitamin D, acetaminophen, ibuprofen
+Summary of most recent oncology visit (3 weeks ago): 71 year old female with a history of breast cancer s/p lumpectomy and radiation therapy, now on tamoxifen. 
+
+Patient message:
+I have a feeling of pressure in my chest which is worse when I walk up the stairs. Is this related to the tamoxifen that I just started? What can I do to manage this pain?
+","The provided information is sufficient to address the patient's concerns, but it is important to consider other potential causes of the chest pressure as well. 
+
+Recommendations:
+
+1. Although tamoxifen can cause some side effects, chest pressure is not a common one. However, it is important to monitor any new symptoms while on tamoxifen and report them to your healthcare provider.
+
+2. The chest pressure could be related to other factors, such as heart-related issues, lung problems, or even musculoskeletal pain. It is important to consult with your healthcare provider to evaluate the cause of the chest pressure and determine the appropriate course of action.
+
+3. In the meantime, continue to take your prescribed medications as directed, and try to avoid activities that worsen the chest pressure until you have discussed this issue with your healthcare provider.
+
+4. It is important to schedule an appointment with your healthcare provider as soon as possible to discuss your symptoms and receive a thorough evaluation. They may want to perform additional tests or examinations to determine the cause of the chest pressure and provide appropriate treatment recommendations.",A,G
+35,"16. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 68 years
+Gender: Female
+Cancer diagnosis: Glioblastoma 
+PMH: hypertension, diabetes, osteoporosis
+Prior cancer treatments: gross total resection, radiotherapy with concurrent temozolomide
+Current cancer treatments:  adjuvant temozolomide
+Current medication list: levetiracetam, lisinopril, metformin, ativan, alendronate, calcium with vitamin D
+Summary of most recent oncology visit (4 weeks ago): 68 year old female with glioblastoma multiforme, on adjuvant temozolomide. Treatment has been complicated by mild nausea and cytopenias. Will continue treatment as planned.
+
+Patient message:
+I had a seizure this morning, it was similar to the seizure I had when I was first diagnosed. I took ativan and it stopped. What should I do?
+","The provided information is sufficient to address the patient's immediate concern. However, additional information such as the frequency and severity of seizures, any recent changes in medication, and any other new symptoms would be helpful for a more comprehensive assessment.
+
+Recommendations:
+
+1. Since you have experienced a seizure similar to the one at the time of your diagnosis, it is important to contact your oncologist as soon as possible to discuss this event. They may want to evaluate you further and adjust your treatment plan accordingly.
+
+2. Continue taking your prescribed medications, including levetiracetam, which is an anti-seizure medication. Do not make any changes to your medications without consulting your healthcare team.
+
+3. Keep a record of any seizures you experience, including the date, time, duration, and any potential triggers. This information will be helpful for your healthcare team in managing your condition.
+
+4. Ensure that you have a seizure action plan in place, which includes knowing when to take rescue medications like Ativan, and when to seek emergency medical help.
+
+5. Make sure your family members or caregivers are aware of your seizure action plan and know what to do in case of an emergency.
+
+Remember, it is crucial to discuss this seizure event with your oncologist to determine if any changes to your treatment plan are necessary.",A,G
+36,"17. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 55 years
+Gender: Male
+Cancer diagnosis: Metastatic prostate adenocarcinoma
+PMH: benign prostatic hyperplasia (BPH), hypertension
+Prior cancer treatments: hormone therapy and radiation therapy (completed 8 months ago)
+Current cancer treatments: androgen deprivation therapy (started 1 month ago)
+Current medication list: tamsulosin, finasteride, amlodipine, lisinopril, atorvastatin
+Summary of most recent oncology visit (3 weeks ago): 55 year old male with a history of prostate cancer s/p definitive treatment, now with metastatic disease involving the bones He is on androgen deprivation therapy. Mild fatigue and hot flashes noted, but overall tolerating treatment. 
+
+Patient message:
+I am having worsening pain in my right upper arm. There has been dull pain there for a few months, but this week it got a lot worse suddenly. What can I do to manage this?
+","The provided information is sufficient to address the patient's concern about the worsening pain in his right upper arm. 
+
+Recommendations:
+
+1. It is important to first assess the cause of the pain. Given your history of metastatic prostate adenocarcinoma and the fact that the pain has worsened suddenly, it is possible that the pain could be related to bone metastasis. I recommend contacting your oncologist as soon as possible to discuss this new symptom. They may want to perform imaging studies, such as an X-ray or bone scan, to evaluate the cause of the pain.
+
+2. In the meantime, you can try over-the-counter pain relievers such as acetaminophen or ibuprofen to help manage the pain. However, it is important to consult with your healthcare provider before starting any new medications, as they can advise you on the appropriate dosage and potential interactions with your current medications.
+
+3. Applying a cold or warm compress to the affected area may also provide some relief. You can try alternating between cold and warm compresses to see which one works best for you.
+
+4. Gentle stretching and range-of-motion exercises may help alleviate some of the pain and stiffness. However, it is important to consult with your healthcare provider or a physical therapist before starting any new exercise regimen, especially if the pain is severe or worsening.
+
+Remember to contact your oncologist to discuss your symptoms and receive further evaluation and guidance on managing your pain.",A,G
+37,"18. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 59 years
+Gender: Female
+Cancer diagnosis: borderline resectable pancreatic adenocarcinoma
+PMH: diabetes, hyperlipidemia
+Prior cancer treatments: none
+Current cancer treatments: concurrent chemoradiation (started 1 month ago)
+Current medication list: insulin glargine, metformin, atorvastatin, prochlorperazine
+Summary of most recent oncology visit (2 weeks ago): 59 year old female with a new diagnosis of borderline resectable pancreatic cancer. She is on concurrent chemoradiation prior to consideration of surgery. Mild nausea and fatigue noted.
+
+Patient message:
+I've been experiencing persistent nausea and vomiting despite taking anti-nausea medications. I can‚Äôt keep down food. Should I make changes to any of my medications?
+","Based on the provided information, it seems that the patient is experiencing persistent nausea and vomiting despite taking prochlorperazine, an anti-nausea medication. It is important to address this issue to ensure the patient maintains adequate nutrition and hydration during treatment.
+
+I would recommend the following:
+
+1. Schedule an appointment with the patient's oncologist to discuss the severity of the nausea and vomiting, as well as any other side effects they may be experiencing. This will help determine if any adjustments to the current treatment plan are necessary.
+
+2. The oncologist may consider prescribing an alternative or additional anti-nausea medication, such as ondansetron or granisetron, to help better manage the patient's symptoms.
+
+3. The patient should be advised to eat small, frequent meals and to avoid foods that may exacerbate nausea, such as spicy or fatty foods. Drinking clear liquids, such as water or ginger ale, may also help alleviate nausea.
+
+4. The patient should be encouraged to report any changes in their symptoms or any new side effects to their oncologist promptly.
+
+Please note that these recommendations are based on the information provided and should be discussed with the patient's oncologist for a more personalized approach.",A,G
+38,"19. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 47 years
+Gender: Male
+Cancer diagnosis: Stage III esophageal adenocarcinoma
+PMH: gastroesophageal reflux disease (GERD), obesity
+Prior cancer treatments: neoadjuvant chemoradiation and esophagectomy (completed 4 months ago)
+Current cancer treatments: immunotherapy (started 4 months ago)
+Current medication list: omeprazole, pantoprazole, metformin, ibuprofen
+Summary of most recent oncology visit (6 weeks ago): 47 year old male with a history of esophageal cancer s/p chemoradiation per CROSS, esophagectomy, now on neoadjuvant chemotherapy and targeted therapy. He is doing well with no major issues.
+
+Patient message:
+I am noticing some new shortness of breath and chest pain. I thought it might be my GERD, but tried increasing acid reflux medications and it didn‚Äôt help. Should I be concerned about these new symptoms?
+","The provided information is sufficient to address the patient's concerns, but further evaluation is necessary to determine the cause of the new symptoms.
+
+Recommendations:
+
+1. It is important to contact your healthcare provider to discuss these new symptoms, as they could be related to a variety of causes, including side effects from your current cancer treatments, GERD, or other underlying conditions.
+
+2. Although you have tried increasing your acid reflux medications, it is still possible that GERD could be contributing to your symptoms. Your healthcare provider may recommend additional tests or adjustments to your medications to better manage your GERD.
+
+3. It is also important to consider potential side effects from your current cancer treatments, such as immunotherapy. Shortness of breath and chest pain could be related to these treatments, and your healthcare provider may need to evaluate your treatment plan.
+
+4. Other potential causes of your symptoms, such as heart or lung issues, should also be considered. Your healthcare provider may recommend additional tests, such as an EKG, chest X-ray, or CT scan, to further evaluate your symptoms and determine the appropriate course of action.
+
+In summary, it is essential to contact your healthcare provider to discuss your new symptoms and undergo a thorough evaluation to determine the cause and appropriate management.",A,G
+39,"20. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 58 years
+Gender: Female
+Cancer diagnosis: Stage IIA breast cancer
+PMH: hypertension, hyperlipidemia
+Prior cancer treatments: lumpectomy and adjuvant radiation therapy (completed 6 years ago)
+Current cancer treatments: chemotherapy (started 3 months ago)
+Current medication list: lisinopril, atorvastatin, aspirin
+Summary of most recent oncology visit (4 weeks ago): 58 year old female with a history of breast cancer s/p surgery and adjuvant radiation therapy, now on chemotherapy for metastatic recurrence (brain). She has mild fatigue and peripheral neuropathy, but it is not particularly bothersome so will not make changes to treatment.
+
+Patient message:
+The tingling in my fingers is getting a lot worse since my last visit, and I am having a hard time using my cell phone.  What should I do to manage the pain?
+","Dear [Patient Name],
+
+I'm sorry to hear that the tingling in your fingers has worsened since your last visit. It sounds like the peripheral neuropathy you're experiencing may be related to your chemotherapy treatment. 
+
+To help manage the pain and tingling, I recommend the following:
+
+1. Over-the-counter pain relievers: You can try using over-the-counter pain relievers such as acetaminophen or ibuprofen to help alleviate the pain. Please follow the recommended dosages on the packaging and consult with your primary care physician if you have any concerns.
+
+2. Warm or cold compresses: Applying warm or cold compresses to the affected areas may provide some relief. Experiment with both to see which works best for you.
+
+3. Gentle exercise: Engaging in gentle exercise, such as walking or stretching, may help improve blood flow and reduce neuropathy symptoms.
+
+4. Protect your hands and feet: Be cautious when handling hot or sharp objects, as your sensation may be reduced. Wear comfortable, well-fitting shoes to protect your feet.
+
+It's important to discuss these symptoms with your oncology team during your next visit, as they may need to adjust your chemotherapy regimen or consider other treatment options to help manage the peripheral neuropathy. In the meantime, please keep track of your symptoms and any changes in their severity.
+
+If the pain becomes unbearable or significantly impacts your daily activities, please contact your oncology team or primary care physician for further evaluation and guidance.
+
+Sincerely,
+
+[Your Name]
+
+[Your Title]",A,G
+40,"21. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 61 years
+Gender: Male
+Cancer diagnosis: Stage IIIA non-small cell lung cancer
+PMH: chronic obstructive pulmonary disease (COPD), hypertension
+Prior cancer treatments: none
+Current cancer treatments: chemotherapy and radiation therapy (started 2 weeks ago)
+Current medication list: albuterol inhaler, fluticasone/salmeterol inhaler, amlodipine, lisinopril, atorvastatin, ibuprofen
+Summary of most recent oncology visit (1 week ago): 61 year old male with a new diagnosis of locally advanced lung cancer. He has started first-line systemic therapy and concurrent radiation therapy. He is starting to develop esophagitis as expected.
+
+Patient message:
+I've been experiencing increased shortness of breath and coughing up blood. Is this normal? Should I go to the emergency room?
+
+","The provided information is sufficient to address the patient's concerns.
+
+Recommendations:
+
+1. Increased shortness of breath and coughing up blood are concerning symptoms and should not be considered normal. These symptoms could be related to the lung cancer itself, side effects of the chemotherapy and radiation therapy, or complications from your pre-existing COPD.
+
+2. It is important to seek immediate medical attention. Please go to the emergency room for a thorough evaluation. The healthcare team will likely perform imaging studies, such as a chest X-ray or CT scan, and other tests to determine the cause of your symptoms and provide appropriate treatment.
+
+3. In the meantime, continue using your prescribed inhalers for COPD management, as they may help alleviate some of the shortness of breath. However, do not delay seeking emergency care.
+
+4. Keep your oncologist informed about your symptoms and any updates from the emergency room visit. They may need to adjust your cancer treatment plan based on the findings and your overall condition.",A,G
+41,"22. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 67 years
+Gender: Female
+Cancer diagnosis: Stage IV colorectal adenocarcinoma
+PMH: hypertension, hyperlipidemia
+Prior cancer treatments: surgery, adjuvant chemotherapy (completed 3 years ago)
+Current cancer treatments: chemotherapy only (started 2 months ago)
+Current medication list: amlodipine, atorvastatin, aspirin
+Summary of most recent oncology visit (6 weeks ago): 67 year old female with a history of colorectal cancer s/p surgery and adjuvant chemotherapy, now with local and distant recurrence. She has started is tolerating chemotherapy well with mild fatigue. 
+
+Patient message:
+I've been experiencing severe constipation for the past week. I've tried over-the-counter remedies, but nothing seems to be working. What should I do to find relief?
+","The provided information is sufficient to answer the patient's question and provide recommendations.
+
+Dear [Patient's Name],
+
+I'm sorry to hear that you've been experiencing severe constipation. Constipation can be a common side effect of chemotherapy, and it's important to address it to ensure your comfort and overall well-being.
+
+Here are some recommendations to help alleviate your constipation:
+
+1. Increase your fluid intake: Aim to drink at least 8-10 cups of water or other non-caffeinated fluids per day. This can help soften your stools and make them easier to pass.
+
+2. Increase your fiber intake: Gradually add more fiber-rich foods to your diet, such as fruits, vegetables, whole grains, and legumes. This can help promote regular bowel movements.
+
+3. Exercise: Engage in light physical activity, such as walking or stretching, as tolerated. Exercise can help stimulate your digestive system and promote bowel movements.
+
+4. Over-the-counter remedies: You mentioned that you've tried some over-the-counter remedies without success. It might be helpful to try a different type of laxative or stool softener, such as polyethylene glycol (Miralax) or docusate sodium (Colace). However, please consult with your healthcare team before starting any new medications.
+
+5. Medication review: Your current medication list includes amlodipine, atorvastatin, and aspirin. Amlodipine can sometimes contribute to constipation. It may be worth discussing with your healthcare team whether any adjustments to your medications could help alleviate your constipation.
+
+If your constipation persists or worsens despite trying these recommendations, please contact your healthcare team for further evaluation and guidance. They may recommend additional treatments or tests to help manage your symptoms.
+
+Wishing you relief and good health.
+
+Sincerely,
+
+[Your Name]
+Oncologist",A,G
+42,"23. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 52 years
+Gender: Male
+Cancer diagnosis: Metastatic renal cell carcinoma
+PMH: none
+Prior cancer treatments: nephrectomy, targeted therapy with tyrosine kinase inhibitors 
+Current cancer treatments: immunotherapy (started 3 months ago)
+Current medication list: None
+Summary of most recent oncology visit (2 weeks ago): 52 year old male with a history of renal cell carcinoma s/p nephrectomy, now on immune checkpoint inhibitors. He is tolerating the treatment well with no significant side effects. Will return to clinic in 4 weeks for re-staging scans
+
+Patient message:
+I've developed a rash over my chest and upper arms. It is very itchy. Is this a side effect of the treatment? 
+","Yes, the provided information is sufficient to answer the patient's question.
+
+Dear patient,
+
+It is possible that the rash you are experiencing on your chest and upper arms could be a side effect of the immunotherapy treatment you are currently receiving. Skin reactions, including rash and itching, are known side effects of immune checkpoint inhibitors. However, it is important to have this rash evaluated by your healthcare team to determine the exact cause and appropriate management.
+
+I recommend contacting your oncologist or healthcare provider to discuss your symptoms and schedule an appointment for a physical examination. They may recommend over-the-counter or prescription medications to help alleviate the itching and manage the rash. In the meantime, avoid scratching the rash and try to keep the affected area clean and dry.
+
+Please do not hesitate to reach out if you have any further questions or concerns.",A,G
+43,"24. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 59 years
+Gender: Female
+Cancer diagnosis: Stage IIA endometrial adenocarcinoma
+PMH: obesity, hypertension, diabetes
+Prior cancer treatments: surgery (6 weeks ago)
+Current cancer treatments:  radiotherapy
+Current medication list: metformin, lisinopril, atorvastatin, ondansetron
+Summary of most recent oncology visit (1 week ago): 59 year old female with a history of endometrial cancer s/p surgery, now receiving adjuvant radiotherapy. Mild nausea and fatigue noted at today‚Äôs visit.
+
+Patient message:
+I've been experiencing persistent nausea and vomiting despite taking Zofran. Should I try any other remedies or contact the oncology clinic for further guidance?
+","Yes, the provided information is sufficient to answer the patient's question.
+
+Recommendations:
+
+1. Since you are experiencing persistent nausea and vomiting despite taking Zofran (ondansetron), it would be appropriate to contact the oncology clinic for further guidance. They may consider adjusting the dose or trying a different antiemetic medication to help manage your symptoms.
+
+2. In the meantime, you can try some non-pharmacological remedies to help alleviate your nausea. These may include:
+   - Eating small, frequent meals instead of large meals
+   - Avoiding spicy, fatty, or fried foods
+   - Drinking clear liquids, such as water, broth, or ginger ale
+   - Sipping on cold or room temperature beverages
+   - Trying ginger supplements or ginger tea, as ginger has been shown to help with nausea
+   - Practicing relaxation techniques, such as deep breathing exercises or meditation
+
+Please remember to contact your oncology clinic to discuss your symptoms and receive personalized recommendations based on your medical history and treatment plan.",A,G
+44,"25. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 61 years
+Gender: Male
+Cancer diagnosis: Stage IV colorectal adenocarcinoma
+PMH: hypertension, hyperlipidemia
+Prior cancer treatments: none
+Current cancer treatments: chemotherapy and targeted therapy (started 2 months ago)
+Current medication list: amlodipine, atorvastatin, aspirin
+Summary of most recent oncology visit (5 weeks ago): 61 year old male with metastatic colorectal cancer involving the liver, lungs, and lymph nodes, on started first-line systemics. He is doing very well with treatment, labs today showed mild AKI. Blood counts are lower limit of normal. Will continue to monitor. 
+Patient message:
+I've been experiencing frequent episodes of diarrhea and it's affecting my daily routine. There is some blood mixed in. Can I do anything to manage it?
+","Yes, the provided information is sufficient to answer the patient's question.
+
+Dear patient,
+
+I understand that you are experiencing frequent episodes of diarrhea with some blood mixed in. This can be a common side effect of chemotherapy and targeted therapy for colorectal cancer. Here are some recommendations to help manage your diarrhea:
+
+1. Stay hydrated: Drink plenty of clear fluids like water, broth, or electrolyte replacement drinks to prevent dehydration.
+
+2. Modify your diet: Eat small, frequent meals and avoid high-fiber, greasy, or spicy foods. You may also want to try a low-residue diet, which includes foods that are easy to digest and low in fiber.
+
+3. Over-the-counter medications: You can try over-the-counter anti-diarrheal medications like loperamide (Imodium) to help control your symptoms. However, please consult with your healthcare team before starting any new medications.
+
+4. Probiotics: Some patients find relief by taking probiotics, which are beneficial bacteria that can help restore the balance of your gut flora. Consult with your healthcare team before starting any supplements.
+
+5. Report your symptoms: It's important to keep your healthcare team informed about your symptoms, especially if there is blood in your stool. They may need to adjust your treatment plan or prescribe medications to help manage your diarrhea.
+
+Please continue to monitor your symptoms and reach out to your healthcare team if they worsen or if you have any concerns.",A,G
+45,"26. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 57 years
+Gender: Female
+Cancer diagnosis: locally advanced pancreatic adenocarcinoma
+PMH: diabetes, hypertension, hyperlipidemia
+Prior cancer treatments: FOLFIRINOX
+Current cancer treatments: stereotactic radiotherapy (started 3 day ago)
+Current medication list: metformin, lisinopril, atorvastatin, insulin glargine
+Summary of most recent oncology visit (2 weeks ago): 57 year old female with locally advanced pancreatic cancer s/p FOLFIRINOX with slight radiographic progression. She will start stereotactic radiation shortly, and next steps will be based on response.
+
+Patient message:
+I've been feeling extremely tired and weak lately. Is this a common side effect of the treatment? Should I be concerned?
+","Yes, the provided information is sufficient to answer the patient's questions.
+
+Dear [Patient's Name],
+
+I understand that you have been feeling extremely tired and weak lately. Fatigue is a common side effect of both chemotherapy (FOLFIRINOX) and stereotactic radiotherapy, which you have recently started. It is important to note that your body is going through a lot with the cancer treatments, and it is normal to experience fatigue during this time.
+
+However, it is also important to monitor your symptoms and communicate any changes or concerns with your healthcare team. In addition to the cancer treatments, your fatigue could be related to your diabetes, hypertension, or other factors. It is essential to ensure that your blood sugar levels and blood pressure are well-controlled.
+
+Here are some recommendations to help manage your fatigue:
+
+1. Prioritize rest and sleep: Make sure you are getting enough sleep at night and take short naps during the day if needed.
+2. Engage in light physical activity: Gentle exercises like walking or stretching can help improve your energy levels. However, consult with your healthcare team before starting any exercise program.
+3. Maintain a balanced diet: Eating a well-balanced diet can help provide your body with the necessary nutrients and energy.
+4. Stay hydrated: Drink plenty of water throughout the day to prevent dehydration, which can contribute to fatigue.
+5. Manage stress: Practice relaxation techniques such as deep breathing, meditation, or yoga to help reduce stress and improve your overall well-being.
+
+Please keep your healthcare team informed about your symptoms and any changes in your condition. We are here to support you throughout your treatment journey.
+
+Best regards,
+
+[Your Name]",A,G
+46,"27. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 66 years
+Gender: Male
+Cancer diagnosis: Stage IV prostate adenocarcinoma
+PMH: benign prostatic hyperplasia (BPH), hypertension
+Prior cancer treatments: hormone therapy and radiation therapy (completed 7 months ago)
+Current cancer treatments: chemotherapy and androgen deprivation therapy (started 1 month ago)
+Current medication list: tamsulosin, amlodipine, lisinopril, atorvastatin, aspirin
+Summary of most recent oncology visit (4 weeks ago): 66 year old male with a history of prostate cancer s/p hormone therapy and radiation therapy, now with metastatic disease involving the bones and lymph nodes. He has started first-line chemotherapy and androgen deprivation therapy. Mild fatigue and hot flashes noted today.
+
+Patient message:
+I've been experiencing episodes of burning pain shooting down my left arm for the past two weeks. Is this a common side effect of the treatment? Can I take anything to make it better?
+","The provided information is sufficient to address the patient's concerns.
+
+Dear [Patient's Name],
+
+I'm sorry to hear that you've been experiencing burning pain shooting down your left arm. This symptom is not a common side effect of the chemotherapy or androgen deprivation therapy you are currently receiving for your prostate cancer. However, it's important to address this new symptom, as it could be related to another issue.
+
+Given your medical history, it's possible that the pain could be related to your hypertension or a side effect of one of your medications. It's important to discuss this symptom with your primary care physician or oncologist as soon as possible to determine the cause and appropriate treatment.
+
+In the meantime, you can try over-the-counter pain relievers such as acetaminophen or ibuprofen to help alleviate the pain. However, please consult with your healthcare team before starting any new medications, as they can advise you on the appropriate dosage and potential interactions with your current medications.
+
+Please don't hesitate to reach out if you have any further questions or concerns.
+
+Sincerely,
+
+[Your Name]
+Oncologist",A,G
+47,"28. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 53 years
+Gender: Female
+Cancer diagnosis: Stage III triple-negative breast cancer
+PMH: none
+Prior cancer treatments: mastectomy, adjuvant chemotherapy and radiation therapy (completed 1 years ago)
+Current cancer treatments: chemotherapy and immunotherapy (started 3 months ago)
+Current medication list: None
+Summary of most recent oncology visit (4 weeks ago): 53 year old female with a history of breast cancer s/p mastectomy, adjuvant chemotherapy, and radiation therapy, now on chemotherapy and immunotherapy for metastatic recurrence. No issue today, she will return in 3 months for imaging.
+
+Patient message:
+I have a fever that went up to 102F this morning. It went away with tylenol. Otherwise I am tired but don‚Äôt have other issues. Do I need to come in to be evaluated? 
+","Yes, the provided information is sufficient to answer the patient's question.
+
+Recommendations:
+
+Dear [Patient Name],
+
+I'm sorry to hear that you're experiencing a fever. Given your current cancer treatments with chemotherapy and immunotherapy, it's important to closely monitor any signs of infection or other complications. Although your fever went away with Tylenol, I would recommend that you come in for an evaluation as soon as possible. This will allow us to determine if there is an underlying issue that needs to be addressed.
+
+In the meantime, please continue to monitor your temperature and symptoms. If your fever returns or you develop any new symptoms, please let us know immediately.
+
+Best regards,
+[Your Name]
+Oncologist",A,G
+48,"29. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 42 years
+Gender: Feale
+Cancer diagnosis: Stage IV cervical cancer
+PMH:  none
+Prior cancer treatments: Cisplatin/paclitaxel/bevacizumab
+Current cancer treatments: decetaxel (started 2 months ago)
+Current medication list: aspirin, prochlorperazine
+Summary of most recent oncology visit (1 week ago): 42 year old woman with metastatic cervical cancer, currently on second-line docetaxel She is extremely fatigued and having trouble keeping her weight up. She will come in again in 2 weeks for a symptom check, at which point we will re-evaluate her treatment plan.
+
+Patient message:
+I noticed quite a bit of blood in the toilet this morning and I feel even more weak than I did when I saw you last week. What should I do?
+
+","Dear [Patient Name],
+
+I'm sorry to hear that you're experiencing these symptoms. Based on the information provided, it's important that we address the bleeding and increased weakness you're experiencing. 
+
+First, I would recommend contacting your primary care physician or visiting the nearest emergency room to evaluate the cause of the bleeding. It's important to determine if the bleeding is related to your cancer, a side effect of your treatment, or another issue altogether. 
+
+Regarding your increased weakness, it could be related to the bleeding, your cancer, or the side effects of your treatment. It's important to have a thorough evaluation to determine the cause and provide appropriate management.
+
+Please keep me updated on your condition, and we will continue to re-evaluate your treatment plan during your next scheduled visit in 2 weeks. In the meantime, don't hesitate to reach out if you have any further concerns or questions.
+
+Sincerely,
+
+[Your Name]
+
+[Your Title]",A,G
+49,"30. Sample Given (active treatment - general chemo):
+EHR Context:
+Age: 59 years
+Gender: Female
+Cancer diagnosis: Stage IV ovarian serous carcinoma
+PMH: hypertension, hyperlipidemia
+Prior cancer treatments: surgery, adjuvant chemotherapy (completed 10 months ago)
+Current cancer treatments: chemotherapy (started 2 months ago)
+Current medication list: lisinopril, atorvastatin, aspirin
+Summary of most recent oncology visit (6 weeks ago): 59 year old female with a history of ovarian cancer s/p surgery and adjuvant chemotherapy, now with distant metastases in the liver and brain. She has started second-line chemotherapy and is tolerating it well, although labs showed low-grade AKI today.
+
+Patient message:
+I've been feeling extremely fatigued and dizzy lately.  Should I take any supplements or change my diet to improve my energy levels?
+","Dear [Patient Name],
+
+I'm sorry to hear that you've been experiencing fatigue and dizziness. These symptoms can be common side effects of chemotherapy, but it's important to address them to ensure your well-being.
+
+Before making any specific recommendations, I would like to gather some more information to better understand your situation. It would be helpful to know the following:
+
+1. Your current blood work results, including hemoglobin, electrolyte levels, and kidney function.
+2. Any recent changes in your medication regimen.
+3. The specific chemotherapy agents you are currently receiving.
+4. Any other symptoms you may be experiencing, such as shortness of breath, chest pain, or palpitations.
+
+Once I have this information, I can provide more tailored recommendations for managing your fatigue and dizziness. In the meantime, it's important to maintain a balanced diet, stay hydrated, and get adequate rest. Please do not hesitate to reach out if you have any concerns or if your symptoms worsen.
+
+Sincerely,
+
+[Your Name]
+Oncologist",A,G
+50,"1. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 62 years
+Gender: Female
+Cancer diagnosis: Stage IIIA cervical squamous cell carcinoma
+PMH: Hypothyroidism, diabetes
+Prior cancer treatments: Radiotherapy with concurrent cisplatin (completed 1 year ago)
+Current cancer treatments: None
+Current medication list: Levothyroxine, metformin, acetaminophen, aspirin, atorvastatin, vitamin D
+Summary of most recent oncology visit (6 weeks ago): 62-year-old female with a history of Stage IIIA cervical cancer s/p definitive cisplatin-based chemoradiation presents for follow-up one year post-treatment. She is clinically and radiographically without evidence of recurrence. Will continue ongoing surveillance.
+
+Patient message: 
+I have noticed some white-yellow discharge from my vagina. Should I be concerned about a my cancer coming?
+","Based on the provided information, it is possible to address the patient's concern, but further evaluation is necessary to determine the cause of the vaginal discharge.
+
+Recommendations:
+
+1. Reassure the patient that vaginal discharge can have various causes, and it is not necessarily an indication of cancer recurrence. However, it is essential to evaluate the discharge to determine its cause.
+
+2. Advise the patient to schedule an appointment with their gynecologist or primary care physician for a physical examination and possible testing to identify the cause of the discharge. This may include a pelvic exam, Pap smear, or other tests as deemed necessary by the healthcare provider.
+
+3. Encourage the patient to continue with their scheduled surveillance and follow-up appointments with their oncologist to monitor for any signs of cancer recurrence.
+
+4. Remind the patient to report any new or worsening symptoms to their healthcare team promptly.",S,S
+51,"2. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 52 years
+Gender: Male
+Cancer diagnosis: Stage IIIB lung adenocarcinoma
+PMH: Hypertension, chronic obstructive pulmonary disease (COPD)
+Prior cancer treatments: Chemotherapy with cisplatin and pemetrexed (completed 6 months ago)
+Current cancer treatments: None
+Current medication list: Lisinopril, albuterol, tiotropium, simvastatin, aspirin
+Summary of most recent oncology visit (3 months ago): 52-year-old male with a history of Stage IIIB lung cancer s/p cisplatin and pemetrexed chemotherapy presents for follow-up. Patient reports improvement in his symptoms and is clinically stable. Will continue ongoing surveillance.
+
+Patient message: 
+I have been experiencing shortness of breath and wheezing, worse than normal for me. I increased my oxygen from 2L to 4L which helped. What should I do?
+","The provided information is sufficient to address the patient's immediate concern, but further evaluation is needed to determine the cause of the worsening symptoms.
+
+Recommendations:
+
+1. It's good to hear that increasing your oxygen from 2L to 4L has helped with your shortness of breath and wheezing. However, it's important to discuss this change with your healthcare team to ensure it's appropriate for your situation.
+
+2. Since you have a history of COPD, the worsening shortness of breath and wheezing could be related to a COPD exacerbation. Make sure you are using your albuterol and tiotropium as prescribed, and inform your primary care physician or pulmonologist about the change in your symptoms.
+
+3. It's also important to consider the possibility that your lung cancer could be contributing to your symptoms. Schedule an appointment with your oncologist to discuss your symptoms and determine if any additional imaging or testing is needed to evaluate your cancer status.
+
+4. In the meantime, monitor your symptoms closely and seek immediate medical attention if you experience severe shortness of breath, chest pain, or any other concerning symptoms.",S,S
+52,"3. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 63 years
+Gender: Female
+Cancer diagnosis: Stage IIB breast ductal carcinoma
+PMH: Hypertension, osteoporosis
+Prior cancer treatments: Lumpectomy followed by adjuvant chemotherapy with doxorubicin and cyclophosphamide and radiation (completed 8 months ago)
+Current cancer treatments: None
+Current medication list: Amlodipine, alendronate, oxycodone, ibuprofen
+Summary of most recent oncology visit (4 months ago): 63-year-old female with a history of Stage IIB breast cancer presents for routine follow-up visit. Patient is clinically without evidence of recurrence. Mammogram scheduled in 8 months. 
+
+Patient message: 
+I have noticed some swelling and tenderness in my breasts. Could this be a sign of cancer recurrence?
+","The provided information is sufficient to address the patient's concern, but it is important to note that a thorough physical examination and further diagnostic tests may be needed to confirm the cause of the swelling and tenderness.
+
+Recommendations:
+
+1. It is important for the patient to schedule an appointment with their oncologist or primary care physician to discuss the swelling and tenderness in the breasts. A physical examination can help determine if there are any concerning findings.
+
+2. The oncologist may recommend additional imaging studies, such as a mammogram or ultrasound, to further evaluate the breast tissue and look for any signs of recurrence.
+
+3. It is also possible that the swelling and tenderness are unrelated to cancer recurrence and could be due to other factors, such as hormonal changes, infection, or inflammation. The healthcare provider can help determine the cause and recommend appropriate treatment if necessary.
+
+4. The patient should continue to follow their oncologist's recommendations for routine surveillance and follow-up visits to monitor for any signs of cancer recurrence.",S,S
+53,"4. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 45 years
+Gender: Male
+Cancer diagnosis: Stage III colon adenocarcinoma
+PMH: None
+Prior cancer treatments: Surgery followed by adjuvant chemotherapy with FOLFOX (completed 10 months ago)
+Current cancer treatments: None
+Current medication list: None
+Summary of most recent oncology visit (6 weeks ago): 45-year-old male with a history of Stage III colon cancer s/p surgery and FOLFOX chemotherapy presents for follow-up. Patient is clinically and radiographically without evidence of recurrence. 
+
+Patient message: 
+I have been experiencing new constipation and abdominal discomfort. Could this be related to my previous cancer treatment?
+","The provided information is sufficient to address the patient's concerns to some extent. However, a more comprehensive assessment would require additional information such as the duration and severity of the constipation and abdominal discomfort, any changes in bowel habits, and any other associated symptoms.
+
+Based on the available information, it is possible that the new constipation and abdominal discomfort could be related to the patient's previous cancer treatment. Chemotherapy, such as FOLFOX, can have long-term effects on the gastrointestinal system, including constipation. However, it is important to consider other potential causes as well, such as dietary changes, stress, or other medical conditions.
+
+I recommend the patient to schedule an appointment with their oncologist or primary care physician to discuss these symptoms in more detail. The healthcare provider can then perform a thorough evaluation, including a physical examination and possibly additional tests, to determine the cause of the constipation and abdominal discomfort and recommend appropriate management.",S,S
+54,"5. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 55 years
+Gender: Female
+Cancer diagnosis: Stage IV ovarian serous carcinoma
+PMH: Hypertension, hypothyroidism
+Prior cancer treatments: Debulking surgery followed by chemotherapy with carboplatin and paclitaxel (completed 4 months ago)
+Current cancer treatments: None
+Current medication list: Atenolol, levothyroxine, metformin
+Summary of most recent oncology visit (1 week): 55-year-old female with a history of Stage IV ovarian cancer s/p surgery and carboplatin-paclitaxel chemotherapy presents for follow-up. Imaging today showed a good response to treatment with no evidence of disease progression, CA-125 is stable. She has ongoing stable peripheral neuropathy.
+
+Patient message: 
+I have been experiencing bloating and abdominal pain. Could this be a sign that my cancer is coming back?
+","Yes, the provided information is sufficient to address the patient's concerns.
+
+Recommendations:
+
+1. It is important to note that bloating and abdominal pain can be caused by various factors, not just cancer recurrence. Some possible causes include gastrointestinal issues, constipation, or even side effects from medications.
+
+2. Although your recent imaging showed a good response to treatment with no evidence of disease progression and your CA-125 levels are stable, it is essential to monitor your symptoms and report any changes or worsening to your oncologist.
+
+3. Schedule a follow-up appointment with your oncologist to discuss your symptoms in more detail. They may recommend additional tests or imaging to rule out any possible recurrence or other underlying causes for your bloating and abdominal pain.
+
+4. In the meantime, try to maintain a healthy lifestyle, including a balanced diet, regular exercise, and stress management, as these can help improve your overall well-being and potentially alleviate some of your symptoms.
+
+Remember, it is always important to communicate any new or concerning symptoms to your healthcare team, as they can provide the most accurate guidance based on your specific medical history and situation.",S,S
+55,"6. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 67 years
+Gender: Male
+Cancer diagnosis: favorable intermediate risk prostate adenocarcinoma
+PMH: Benign prostatic hyperplasia (BPH), high cholesterol
+Prior cancer treatments: Radical prostatectomy followed by adjuvant radiation therapy (completed 1 year ago)
+Current cancer treatments: None
+Current medication list: Tamsulosin, finasteride, atorvastatin, aspirin
+Summary of most recent oncology visit (3 months ago): 67-year-old male with a history of prostate cancer s/p surgery and adjuvant radiation therapy presents for follow-up. Patient's PSA levels remain undetectable. Urinary incontinence, which occurred post-operatively, is slowly improving. 
+
+Patient message: 
+I have been experiencing worsening urinary incontinence again and new lower back pain. Should I come to the emergency room?
+","Based on the provided information, it is not possible to definitively determine the cause of the patient's worsening urinary incontinence and new lower back pain. However, I can provide some recommendations.
+
+Recommendations:
+1. The patient should contact their primary care physician or urologist to discuss the worsening urinary incontinence and new lower back pain. They may be able to provide guidance on whether an emergency room visit is necessary or if an outpatient appointment is more appropriate.
+2. The patient should monitor their symptoms closely. If the pain becomes severe, unmanageable, or is accompanied by other concerning symptoms (such as fever, chills, or significant changes in bowel or bladder function), they should consider going to the emergency room.
+
+Additional information that would be helpful from the EHR includes:
+1. Any recent imaging studies (e.g., CT scan, MRI, or bone scan) to assess for potential metastasis or other causes of the lower back pain.
+2. Any recent laboratory results, including PSA levels, to evaluate for potential recurrence of prostate cancer.
+3. A detailed history of the patient's urinary incontinence, including any previous treatments or interventions, and the timeline of symptom improvement and worsening.",S,S
+56,"7. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 59 years
+Gender: Female
+Cancer diagnosis: Stage IIA colorectal adenocarcinoma
+PMH: Hypertension, gastroesophageal reflux disease (GERD)
+Prior cancer treatments: Surgery followed by adjuvant chemotherapy with oxaliplatin and fluorouracil (completed 6 months ago)
+Current cancer treatments: None
+Current medication list: Losartan, omeprazole, simvastatin
+Summary of most recent oncology visit (4 months ago): 59-year-old female with a history of Stage IIA colorectal cancer s/p surgery and adjuvant chemotherapy presents for follow-up. Patient is clinically without evidence of recurrence but ongoing bowel issues with very frequent stools. Will trial bulking agents.
+
+Patient message: 
+I have been experiencing severe abdominal pain and I am very bloated. Do I need to go to the emergency room?
+","Based on the provided information, it is not possible to definitively determine whether the patient needs to go to the emergency room. However, given the patient's history of colorectal cancer, recent bowel issues, and current symptoms of severe abdominal pain and bloating, it is important to take these symptoms seriously.
+
+I would recommend the patient to contact their primary care physician or oncologist for further evaluation and guidance. If the pain is unbearable or if there are additional concerning symptoms such as fever, vomiting, or signs of intestinal obstruction (e.g., inability to pass gas or have a bowel movement), the patient should consider going to the emergency room for immediate evaluation.",S,S
+57,"8. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 48 years
+Gender: Male
+Cancer diagnosis: Stage IIIC melanoma
+PMH: None
+Prior cancer treatments: Wide excision surgery followed by adjuvant immunotherapy with pembrolizumab (completed 7 months ago)
+Current cancer treatments: None
+Current medication list: None
+Summary of most recent oncology visit (2 months ago): 48-year-old male with a history of Stage IIIC melanoma s/p surgery and pembrolizumab immunotherapy presents for follow-up. Patient is clinically and radiographically without evidence of disease recurrence. He will be seen again in 3 months.
+
+Patient message: 
+For the past 3 weeks or so, I have been having palpitations and my pants feel loose. I don‚Äôt usually have palpitations. Is this something I should be concerned about?
+
+","The provided information is not sufficient to definitively answer the patient's question. While it is reassuring that the patient is clinically and radiographically without evidence of disease recurrence, the new onset of palpitations and weight loss warrant further evaluation.
+
+To better assess the patient's concerns, I would need additional information from the EHR, such as:
+
+1. Vital signs, including heart rate and blood pressure.
+2. Any recent laboratory results, including thyroid function tests, electrolyte levels, and complete blood count.
+3. A detailed review of systems, including any other symptoms the patient may be experiencing.
+4. Any history of cardiac issues or arrhythmias in the patient or their family.
+
+Based on the available information, I would recommend the patient to contact their primary care physician or oncologist to discuss these new symptoms. They may need further evaluation, including a physical examination, an electrocardiogram (ECG), and additional laboratory tests to determine the cause of the palpitations and weight loss.",S,S
+58,"9. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 60 years
+Gender: Female
+Cancer diagnosis: Stage IB non-small cell lung cancer
+PMH: Chronic obstructive pulmonary disease (COPD)
+Prior cancer treatments: Stereotactic body radiotherapy (completed 9 months ago)
+Current cancer treatments: None
+Current medication list: Albuterol, tiotropium, prednisone, aspirin
+Summary of most recent oncology visit (3 months ago): 60-year-old female with a history of Stage IB lung cancer s/p stereotactic body radiation who presents for follow-up. Patient is clinically without evidence of recurrence. 
+
+Patient message: 
+I have a twinging pain in my chest that is worse when I press on it It is minor but annoying. What should I do to make it better?
+","Yes, the provided information is sufficient to answer the patient's question.
+
+Recommendations:
+
+1. It is important to first assess the severity and duration of the pain. If the pain is mild and has been present for a short period, it may be due to a musculoskeletal issue or irritation from the patient's COPD. In this case, over-the-counter pain relievers such as acetaminophen or ibuprofen may help alleviate the discomfort.
+
+2. Encourage the patient to monitor their symptoms closely. If the pain worsens, becomes persistent, or is accompanied by other symptoms such as shortness of breath, cough, or fever, they should contact their healthcare provider for further evaluation.
+
+3. The patient should continue to take their prescribed medications for COPD (albuterol, tiotropium, and prednisone) as directed, as these may help manage any underlying respiratory issues that could be contributing to the chest pain.
+
+4. It is important for the patient to attend regular follow-up appointments with their oncologist to monitor for any signs of cancer recurrence or complications related to their prior cancer treatments.
+
+5. Encourage the patient to maintain a healthy lifestyle, including regular exercise, a balanced diet, and stress management techniques, as these can help improve overall well-being and potentially reduce the risk of cancer recurrence.
+
+If the patient's symptoms do not improve or worsen, they should contact their healthcare provider for further evaluation and management.",S,S
+59,"10. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 70 years
+Gender: Male
+Cancer diagnosis: Stage I prostate adenocarcinoma
+PMH: Benign prostatic hyperplasia (BPH), hypertension
+Prior cancer treatments: Radical prostatectomy (completed 1 year ago)
+Current cancer treatments: None
+Current medication list: Tamsulosin, doxazosin, metoprolol, aspirin
+Summary of most recent oncology visit (6 weeks ago): 70-year-old male with a history of Stage I prostate cancer s/p surgery presents for follow-up. Patient shows no signs of disease recurrence but has erectile dysfunction, for which he will see his urologist. 
+
+Patient message: 
+I am noticing that I need to strain really hard to urinate. Is this normal or do I need to be evaluated?
+","The provided information is sufficient to address the patient's concern.
+
+Recommendations:
+
+1. It is not uncommon for men with a history of benign prostatic hyperplasia (BPH) and prostate cancer surgery to experience difficulty in urination. The straining to urinate could be related to BPH or a side effect of the surgery.
+
+2. Since the patient is already on tamsulosin and doxazosin, which are medications used to treat BPH, it is important to discuss this new symptom with the urologist. The urologist may consider adjusting the medication or exploring other treatment options to alleviate the patient's urinary symptoms.
+
+3. In the meantime, the patient should monitor his urinary symptoms and note any changes, such as increased frequency, urgency, or pain during urination. This information will be helpful during the consultation with the urologist.
+
+4. It is also important for the patient to continue attending regular follow-up appointments with the oncologist to monitor for any signs of prostate cancer recurrence.",S,S
+60,"11. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 74 years
+Gender: Female
+Cancer diagnosis: resectable pancreatic adenocarcinoma
+PMH: Diabetes, hypertension
+Prior cancer treatments: Whipple procedure followed by adjuvant chemotherapy with gemcitabine and nab-paclitaxel (completed 5 months ago)
+Current cancer treatments: None
+Current medication list: Insulin, metformin, lisinopril, atorvastatin
+Summary of most recent oncology visit (3 months ago): 74-year-old female with a history of resectable pancreatic cancer s/p surgery and chemotherapy presents for follow-up. Patient is without evidence of recurrence. Will continue ongoing surveillance.
+
+Patient message:
+I've been experiencing persistent abdominal pain and bloating. Is this normal after my pancreatic cancer treatment?
+","The provided information is sufficient to address the patient's concerns to some extent. However, further evaluation and information may be needed to determine the exact cause of the abdominal pain and bloating.
+
+Recommendations:
+
+1. It is not uncommon for patients to experience abdominal pain and bloating after pancreatic cancer treatment, especially after a Whipple procedure. These symptoms can be related to changes in digestion and bowel function following surgery.
+
+2. However, it is essential to rule out any potential complications or recurrence of cancer. I recommend scheduling an appointment with your oncologist to discuss your symptoms in detail. They may want to perform additional tests, such as imaging studies or blood tests, to evaluate the cause of your symptoms.
+
+3. In the meantime, you can try some lifestyle modifications to help alleviate your symptoms. These may include eating smaller, more frequent meals, avoiding gas-producing foods, and staying well-hydrated. You should also discuss your symptoms with your primary care physician, who can help manage your diabetes and hypertension, as these conditions may also contribute to your abdominal discomfort.
+
+Please remember that this advice is not a substitute for a consultation with your healthcare provider. It is essential to discuss your symptoms with your oncologist and primary care physician to determine the best course of action.",S,S
+61,"12. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 63 years
+Gender: Male
+Cancer diagnosis: Stage II gastric adenocarcinoma
+PMH: Hypertension, hyperlipidemia
+Prior cancer treatments: Per-operative chemotherapy and gastrectomy (completed 8 months ago)
+Current cancer treatments: None
+Current medication list: Amlodipine, atorvastatin, aspirin
+Summary of most recent oncology visit (4 months ago): 63-year-old male with a history of Stage II gastric cancer s/p perioperative chemotherapy and surgery and presents for follow-up. Imaging shows no evidence of disease. 
+
+Patient message:
+I've been experiencing persistent indigestion and heartburn. What should I take to feel better?
+","The provided information is sufficient to address the patient's concern about persistent indigestion and heartburn. However, it is important to note that any new or worsening symptoms should be discussed with the patient's healthcare team to rule out any potential complications or recurrence of cancer.
+
+Recommendations:
+
+1. Over-the-counter antacids, such as calcium carbonate (Tums) or aluminum hydroxide and magnesium carbonate (Maalox), can help provide short-term relief for indigestion and heartburn. However, these should be used as directed and not for an extended period without consulting a healthcare professional.
+
+2. H2 blockers, such as famotidine (Pepcid) or ranitidine (Zantac), can help reduce stomach acid production and may provide relief from indigestion and heartburn. These medications are available over-the-counter and can be taken as directed.
+
+3. Proton pump inhibitors (PPIs), such as omeprazole (Prilosec) or esomeprazole (Nexium), can also help reduce stomach acid production and provide relief from indigestion and heartburn. These medications are available over-the-counter and can be taken as directed.
+
+4. Lifestyle modifications, such as avoiding spicy or fatty foods, eating smaller meals, not lying down immediately after eating, and elevating the head of the bed, can help alleviate indigestion and heartburn symptoms.
+
+5. It is important for the patient to discuss these symptoms with their healthcare team during their next visit or sooner if symptoms worsen or do not improve with over-the-counter medications and lifestyle modifications. The healthcare team may want to perform additional tests or imaging to rule out any complications or recurrence of cancer.
+
+Please note that these recommendations are general and should be discussed with the patient's healthcare team before implementing any changes to their treatment plan.",S,S
+62,"13. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 59 years
+Gender: Female
+Cancer diagnosis: Stage IV lung adenocarcinoma
+PMH: None
+Prior cancer treatments: Chemotherapy with carboplatin, pemetrexed, and pembrolizumab (completed 2 months ago)
+Current cancer treatments: None
+Current medication list: None
+Summary of most recent oncology visit (1 month ago): 59-year-old female with a history of Stage IV lung cancer, currently on a treatment break, who presents for follow-up. He is doing well, and imaging showed slight disease progression. 
+
+Patient message:
+I've been feeling very fatigued and weak lately. Can this be a side effect of my previous chemotherapy?
+","Yes, the provided information is sufficient to answer the patient's question.
+
+Dear patient,
+
+It is possible that the fatigue and weakness you are experiencing could be related to your previous chemotherapy treatment. Chemotherapy can have long-lasting side effects, and fatigue is a common one. It is important to note that there could be other factors contributing to your fatigue, such as the cancer itself, emotional stress, or other medical conditions.
+
+I recommend discussing your symptoms with your oncologist during your next visit. They can help determine if your fatigue is related to your previous chemotherapy or if there are other factors that need to be addressed. In the meantime, try to maintain a balanced diet, stay hydrated, and engage in light physical activity as tolerated to help manage your fatigue.
+
+Please do not hesitate to reach out if you have any further questions or concerns.",S,S
+63,"14. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 70 years
+Gender: Male
+Cancer diagnosis: Stage IV renal cell carcinoma
+PMH: Hypertension, diabetes
+Prior cancer treatments: Nephrectomy followed by sunitinib (completed 6 months ago)
+Current cancer treatments: None
+Current medication list: Lisinopril, metformin, atorvastatin
+Summary of most recent oncology visit (3 months ago): 70-year-old male with a history of Stage IV renal cancer s/p surgery and sunitinib presents for follow-up. Patient shows no evidence of disease.
+
+Patient message:
+I've been experiencing pain in my lower back and sides. Could this be a sign of my kidney cancer coming back?
+","The provided information is helpful but not sufficient to definitively determine if the patient's lower back and side pain is a sign of kidney cancer recurrence. To better assess the situation, I would need additional information from the patient's EHR, such as:
+
+1. Results of any recent imaging studies (e.g., CT scans, MRIs, or ultrasounds) to check for any signs of cancer recurrence or metastasis.
+2. Any recent laboratory test results, including kidney function tests and tumor markers, if available.
+3. A detailed description of the pain, including its onset, duration, intensity, and any factors that worsen or alleviate it.
+4. Any other new or worsening symptoms the patient may be experiencing.
+
+Once this additional information is available, I can provide a more informed recommendation. In the meantime, it is essential for the patient to discuss their concerns and symptoms with their oncologist, who can evaluate their situation and determine if further testing or intervention is necessary.",S,S
+64,"15. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 47 years
+Gender: Female
+Cancer diagnosis: Stage IIIA breast ductal carcinoma
+PMH: None
+Prior cancer treatments: Neoadjuvant chemotherapy, lumpectomy with axillary lymph node dissection, and radiotherapy (completed 9 months ago)
+Current cancer treatments: None
+Current medication list: None
+Summary of most recent oncology visit (3 months ago): 47-year-old female with a history of Stage IIIA breast cancer s/p neoadjuvant chemotherapy, lumpectomy with axillary lymph nodes dissection, and radiotherapy presents for follow-up. No evidence of recurrence noted, plan is for mammogram in 3 months. 
+
+Patient message:
+I've noticed some swelling and tenderness in my armpit. Could this be related to my previous breast cancer treatment?
+","Yes, the provided information is sufficient to answer the patient's question.
+
+Recommendations:
+
+1. The swelling and tenderness in your armpit could be related to your previous breast cancer treatment, specifically the axillary lymph node dissection. This can sometimes lead to a condition called lymphedema, which is a buildup of lymphatic fluid in the tissues due to damage or removal of lymph nodes.
+
+2. It is important to have this swelling and tenderness evaluated by your healthcare provider to rule out any other potential causes, such as infection or recurrence of cancer.
+
+3. In the meantime, you can try some self-care measures to help alleviate the swelling and discomfort, such as gentle massage, elevation of the affected arm, and wearing a compression sleeve if recommended by your healthcare provider.
+
+4. Continue to monitor the swelling and tenderness, and report any changes or worsening of symptoms to your healthcare provider promptly.",S,S
+65,"16. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 58 years
+Gender: Male
+Cancer diagnosis: Stage III esophageal adenocarcinoma
+PMH: Gastroesophageal reflux disease (GERD)
+Prior cancer treatments: chemoradiation with carboplatin/paclitaxel followed by esophagectomy (completed 7 months ago)
+Current cancer treatments: None
+Current medication list: Omeprazole, ranitidine, metoclopramide
+Summary of most recent oncology visit (2 months ago): 58-year-old male with a history of Stage III esophageal cancer treated as per CROSS presents for follow-up. Patient is clinically without evidence of recurrence and is back at his pretreatment weight.
+
+Patient message:
+I've been experiencing difficulty swallowing recently. Do I need to be evaluated sooner than my next visit?
+","The provided information is sufficient to address the patient's concern. 
+
+Recommendations:
+1. Although it is reassuring that the patient is clinically without evidence of recurrence and has regained his pretreatment weight, the recent difficulty swallowing (dysphagia) should not be ignored. It could be related to a stricture, recurrence of cancer, or other causes.
+2. The patient should contact his oncologist or primary care physician to discuss these symptoms and potentially schedule an evaluation sooner than the next planned visit. This evaluation may include a physical examination, imaging studies, or endoscopy to determine the cause of the dysphagia.
+3. In the meantime, the patient should continue taking his prescribed medications (omeprazole, ranitidine, and metoclopramide) as they may help alleviate some of the symptoms related to GERD. However, it is essential to have a proper evaluation to rule out other causes of the difficulty swallowing.",S,S
+66,"17. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 65 years
+Gender: Female
+Cancer diagnosis: Stage IA endometrial adenocarcinoma
+PMH: Hypertension, osteoporosis
+Prior cancer treatments: Total hysterectomy followed by vaginal cylinder brachytherapy (completed 10 months ago)
+Current cancer treatments: None
+Current medication list: Amlodipine, alendronate, aspirin
+Summary of most recent oncology visit (6 weeks ago): 65-year-old female with a history of Stage IA endometrial cancer s/p surgery and brachytherapy presents for follow-up. Patient is clinically without evidence of recurrence; physical exam showed expected post-treatment changes. 
+
+Patient message:
+I have been experiencing vaginal spotting. Is this normal?
+","The provided information is sufficient to address the patient's concern about vaginal spotting. 
+
+Recommendations:
+1. Vaginal spotting can occur after brachytherapy and may be a normal side effect of the treatment. However, it is important to monitor the spotting and report any changes or worsening to your healthcare team.
+2. Schedule an appointment with your oncologist or gynecologist for a thorough evaluation to rule out any potential complications or recurrence of cancer.
+3. In the meantime, keep track of the frequency, duration, and severity of the spotting, as well as any associated symptoms such as pain or discomfort. This information will be helpful for your healthcare team during the evaluation.
+
+Remember, it is always important to communicate any concerns or changes in your health to your healthcare team, as they can provide the most accurate guidance based on your individual medical history and treatment plan.",S,S
+67,"18. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 60 years
+Gender: Male
+Cancer diagnosis: Stage II bladder urothelial carcinoma
+PMH: Benign prostatic hyperplasia (BPH), diabetes
+Prior cancer treatments: Transurethral resection of bladder tumor followed by intravesical chemotherapy (completed 9 months ago)
+Current cancer treatments: None
+Current medication list: Tamsulosin, metformin, lisinopril, aspirin
+Summary of most recent oncology visit (4 months ago): 60-year-old male with a history of Stage IIB bladder cancer s/p surgery and intravesical chemotherapy presents for follow-up. Patient is clinically without evidence of recurrence. Will continue ongoing surveillance.
+
+Patient message:
+I've been experiencing blood in my urine again. Should I be concerned about a recurrence of my bladder cancer?
+","The provided information is sufficient to address the patient's concern, but further evaluation is necessary to determine the cause of the blood in the urine.
+
+Recommendations:
+
+1. Schedule an appointment with your oncologist or urologist as soon as possible to discuss your symptoms and perform a thorough evaluation. This may include a physical examination, urine tests, and imaging studies to determine the cause of the blood in your urine.
+
+2. It is important to remember that blood in the urine can be caused by various factors, not just a recurrence of bladder cancer. Other potential causes include urinary tract infections, kidney stones, or benign prostatic hyperplasia (BPH), which you have a history of.
+
+3. Continue taking your prescribed medications as directed and maintain regular follow-up appointments with your healthcare team for ongoing surveillance of your bladder cancer.
+
+Please consult with your healthcare team to discuss your symptoms and receive appropriate evaluation and management.",S,S
+68,"19. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 48 years
+Gender: Female
+Cancer diagnosis: Stage III ovarian serous carcinoma
+PMH: None
+Prior cancer treatments: Surgery followed by chemotherapy with carboplatin and paclitaxel (completed 5 months ago)
+Current cancer treatments: None
+Current medication list: None
+Summary of most recent oncology visit (3 months ago): 48-year-old female with a history of Stage III ovarian cancer s/p surgery and chemotherapy presents for follow-up. Patient is clinically without evidence of disease recurrence. 
+
+Patient message:
+I've been having chest pain and shortness of breath for the past 3 days. What should I do?
+","The provided information is not sufficient to definitively determine the cause of the patient's chest pain and shortness of breath. However, given her history of ovarian cancer and recent chemotherapy, it is important to evaluate her symptoms promptly.
+
+I would recommend the patient to:
+
+1. Seek immediate medical attention, either by contacting her primary care physician or visiting an emergency department. Chest pain and shortness of breath can be symptoms of serious medical conditions, such as a pulmonary embolism, heart attack, or infection, which require urgent evaluation and treatment.
+
+2. Provide her healthcare provider with a detailed description of her symptoms, including the onset, duration, severity, and any factors that may exacerbate or alleviate the pain. This information will help the healthcare provider determine the appropriate diagnostic tests and treatment options.
+
+Additional information that would be helpful from the EHR includes:
+
+1. Results of any recent imaging studies (e.g., chest X-ray, CT scan) or laboratory tests (e.g., complete blood count, D-dimer, troponin) that may help identify the cause of her symptoms.
+
+2. Any history of cardiovascular risk factors (e.g., hypertension, diabetes, smoking) or family history of heart disease, which may increase her risk for cardiac events.
+
+3. Any recent changes in her activity level, stress levels, or other factors that may contribute to her symptoms.",S,S
+69,"20. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 32 years
+Gender: Male
+Cancer diagnosis: Stage I testicular seminoma
+PMH: None
+Prior cancer treatments: Orchidectomy (completed 1 year ago)
+Current cancer treatments: None
+Current medication list: None
+Summary of most recent oncology visit (6 weeks ago): 32-year-old male with a history of Stage I testicular cancer s/p surgery presents for follow-up. Exam and imaging showed no evidence of recurrence. Will continue ongoing surveillance.
+
+Patient message:
+I've had a cough and fever for the past 3 days. Could this be a sign of my cancer coming back?
+","The provided information is sufficient to address the patient's concern.
+
+Recommendation:
+It is unlikely that your cough and fever are signs of your cancer coming back. These symptoms are more commonly associated with a viral or bacterial infection, such as the common cold or flu. It is important to monitor your symptoms and seek medical attention if they worsen or do not improve within a week. Additionally, it is essential to continue with your scheduled surveillance appointments to monitor for any signs of cancer recurrence.",S,S
+70,"21. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 67 years
+Gender: Female
+Cancer diagnosis: Stage III rectal adenocarcinoma
+PMH: Hypertension, osteoporosis
+Prior cancer treatments: Chemoradiation therapy with 5-fluorouracil followed by low anterior resection (completed 12 years8 months ago)
+Current cancer treatments: None
+Current medication list: Amlodipine, alendronate, aspirin
+Summary of most recent oncology visit (4 months ago): 67-year-old female with a history of locally advanced rectal cancer s/p chemoradiation and surgery seen in long-term follow-up. He is doing well but has struggled with frequent loose stools since his surgery. Patient is clinically without evidence of recurrence. 
+
+Patient message:
+I noticed blood in my stool yesterday What should I do?
+","Dear patient,
+
+I understand your concern about noticing blood in your stool. While the provided information gives me a good understanding of your medical history, I would need some additional information to better assess your situation. 
+
+1. Have you experienced any recent changes in bowel habits, such as diarrhea or constipation?
+2. Are you experiencing any abdominal pain or discomfort?
+3. Have you had any recent weight loss or changes in appetite?
+4. Have you had any history of hemorrhoids or anal fissures?
+5. How often have you noticed blood in your stool, and is it bright red or dark in color?
+
+Once I have this information, I will be better equipped to provide recommendations. In the meantime, it is essential to monitor your symptoms and report any worsening or new symptoms to your healthcare team.
+
+Please do not hesitate to reach out if you have any further questions or concerns.",S,S
+71,"22. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 56 years
+Gender: Male
+Cancer diagnosis: Stage I melanoma
+PMH: None
+Prior cancer treatments: Wide excision surgery (completed 6 months ago)
+Current cancer treatments: None
+Current medication list: None
+Summary of most recent oncology visit (3 months ago): 56-year-old male with a history of Stage I melanoma s/p wide local excision presents for follow-up. No evidence of disease recurrence noted. 
+
+Patient message:
+The scar from my melanoma surgery seems like it is opening up again and it is bleeding. Could this mean that the cancer is back?
+","The provided information is sufficient to address the patient's concern, but it is important to note that I am not able to examine the scar in person. 
+
+Recommendations:
+
+1. It is not uncommon for scars to change in appearance over time, and bleeding from the scar could be due to various reasons, such as irritation, infection, or trauma. It does not necessarily mean that the cancer has returned.
+
+2. However, it is essential to have the scar evaluated by a healthcare professional to determine the cause of the bleeding and to rule out any possible recurrence of melanoma. I recommend contacting your primary care physician or oncologist to schedule an appointment for an examination of the scar.
+
+3. In the meantime, keep the area clean and dry, and avoid picking at or scratching the scar. You can apply an over-the-counter antibiotic ointment and cover it with a sterile bandage to help prevent infection.
+
+4. Continue to monitor the scar for any changes in appearance, size, or color, and report any concerns to your healthcare provider.
+
+Remember, it is always best to consult with your healthcare team for personalized advice and recommendations based on your specific medical history and situation.",S,S
+72,"23. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 681 years
+Gender: Female
+Cancer diagnosis: Stage IIA breast ductal carcinoma
+PMH: Hypertension, osteoporosis
+Prior cancer treatments: Lumpectomy followed by radiotherapy (completed 8 year ago)
+Current cancer treatments: None
+Current medication list: Lisinopril, alendronate, aspirin
+Summary of most recent oncology visit (4 months ago): 81-year-old female with a history of Stage IIA breast cancer s/p breast conservation therapy presents for follow-up. Patient is clinically without evidence of recurrence. 
+
+Patient message:
+I've been experiencing really bad back pain in my mid-back and I can‚Äôt lie flat anymore because of it Do I need to come in to be seen or should I try pain killers first??
+","The provided information is not sufficient to definitively answer the patient's question. While the patient's history of breast cancer and osteoporosis could be relevant to her current back pain, it is important to gather more information to determine the appropriate course of action.
+
+Additional information needed from EHR:
+1. Duration and severity of the back pain.
+2. Any recent imaging studies (e.g., X-ray, MRI, or CT scan) of the spine or back.
+3. Any history of trauma or injury to the back.
+4. Any recent changes in physical activity or lifestyle.
+5. Any other associated symptoms (e.g., fever, weight loss, neurological symptoms).
+
+Recommendations:
+1. Encourage the patient to provide more details about her back pain, including the duration, severity, and any associated symptoms.
+2. Advise the patient to contact her primary care physician to discuss her symptoms and determine if an in-person evaluation is necessary.
+3. If the patient's primary care physician recommends it, she may try over-the-counter pain relievers (e.g., acetaminophen or ibuprofen) to alleviate her pain temporarily. However, she should consult her doctor before starting any new medications, as there may be potential interactions with her current medications.
+4. If the back pain is severe, persistent, or accompanied by other concerning symptoms, the patient should be evaluated by a healthcare professional as soon as possible.",S,S
+73,"24. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 55 years
+Gender: Male
+Cancer diagnosis: Stage IIA colon adenocarcinoma
+PMH: None
+Prior cancer treatments: Surgery followed by adjuvant chemotherapy with oxaliplatin and fluorouracil (completed 7 months ago)
+Current cancer treatments: None
+Current medication list: None
+Summary of most recent oncology visit (3 months ago): 55-year-old male with a history of Stage IIA colon cancer s/p surgery and chemotherapy presents for follow-up. He is doing well, no evidence of disease recurrence observed. 
+
+Patient message:
+I've been experiencing frequent and urgent bowel movements. Could this be related to my cancer?
+","The provided information is sufficient to address the patient's concern.
+
+Dear patient,
+
+It's good to hear that you are doing well and there is no evidence of disease recurrence. The frequent and urgent bowel movements you are experiencing may not necessarily be related to your cancer. It could be a side effect of the chemotherapy you completed 7 months ago, as oxaliplatin and fluorouracil can sometimes cause gastrointestinal issues. Additionally, it could be due to other factors such as dietary changes, stress, or an unrelated gastrointestinal issue.
+
+I recommend discussing these symptoms with your primary care physician or oncologist, who can evaluate your situation further and provide appropriate recommendations. They may suggest dietary modifications, medications, or additional tests to determine the cause of your symptoms and provide appropriate treatment.
+
+Please don't hesitate to reach out if you have any further questions or concerns.",S,S
+74,"25. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 47 years
+Gender: Female
+Cancer diagnosis:  Stage III retroperitoneal leiomyosarcoma
+PMH: None
+Prior cancer treatments: neoadjuvant radiation followed by surgery(completed 6 months ago)
+Current cancer treatments: None
+Current medication list: None
+Summary of most recent oncology visit (3 months ago): 47-year-old female with a history of Stage III retroperitoneal leiomyosarcoma presents for follow-up. No evidence of disease recurrence on imaging. 
+
+Patient message:
+I've been having irregular menstrual cycles. Is it normal after cancer treatment?
+","The provided information is sufficient to address the patient's concern about irregular menstrual cycles after cancer treatment.
+
+Recommendation: It is not uncommon for women to experience changes in their menstrual cycles after undergoing cancer treatments such as radiation therapy and surgery. These changes can be temporary or permanent, depending on the individual and the specific treatments received. In your case, it is possible that the neoadjuvant radiation therapy and surgery you underwent for your retroperitoneal leiomyosarcoma may have affected your menstrual cycle. However, it is important to discuss these changes with your healthcare team to rule out any other potential causes and to determine if any further evaluation or intervention is needed.",S,S
+75,"26. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 64 years
+Gender: Male
+Cancer diagnosis: resectable pancreatic adenocarcinoma
+PMH: Hypertension, diabetes
+Prior cancer treatments: Whipple procedure followed by adjuvant gemcitabine/capecitabine and chemoradiotherapy(completed 2 years ago)
+Current cancer treatments: None
+Current medication list: Amlodipine, metformin, insulin
+Summary of most recent oncology visit (3 months ago): 64-year-old male with a history of resectable pancreatic cancer s/p surgery, gemcitabine/capecitabine, and chemoradiotherapy presents for follow-up. Patient remains without evidence of disease recurrence. 
+
+Patient message:
+I've been experiencing weight loss lately. Could this be related to my pancreatic cancer?
+","The provided information is sufficient to address the patient's concern about weight loss and its potential relation to pancreatic cancer. 
+
+Recommendations:
+
+1. It is reassuring to know that the patient remains without evidence of disease recurrence as of the most recent oncology visit 3 months ago. However, unexplained weight loss should not be ignored and should be evaluated further.
+
+2. The patient should schedule an appointment with their primary care physician or oncologist to discuss the weight loss in detail, including the duration, amount of weight lost, and any associated symptoms.
+
+3. The healthcare provider may recommend additional tests or imaging studies to rule out any potential causes of weight loss, including cancer recurrence or other medical conditions.
+
+4. In the meantime, the patient should monitor their weight and any other symptoms they may be experiencing, and maintain a balanced diet and regular exercise routine, as advised by their healthcare provider.
+
+5. It is important to consider that weight loss could be related to other factors, such as diabetes management, medication side effects, or other underlying health issues. The healthcare provider will help determine the cause and recommend appropriate management strategies.",S,S
+76,"27. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 52 years
+Gender: Female
+Cancer diagnosis: Stage II lung adenocarcinoma
+PMH: None
+Prior cancer treatments: Lobectomy followed by adjuvant chemotherapy with cisplatin and pemetrexed (completed 6 months ago)
+Current cancer treatments: None
+Current medication list: None
+Summary of most recent oncology visit (3 months ago): 52-year-old female with a history of Stage II lung cancer s/p surgery and chemotherapy presents for routine follow-up. No evidence of disease recurrence observed. 
+
+Patient message:
+I've been having a fever, cough, and shortness of breath. Should I come in to see a doctor?
+","The provided information is sufficient to give a general recommendation, but further information and evaluation would be needed to provide a more specific and accurate assessment.
+
+Recommendation: Given your history of Stage II lung adenocarcinoma and recent completion of chemotherapy, it is important to address any new symptoms, such as fever, cough, and shortness of breath. These symptoms could be related to a respiratory infection, but they could also be indicative of a potential recurrence or complication related to your cancer or treatment. I recommend you contact your healthcare provider to discuss your symptoms and determine if an appointment or further evaluation is necessary. In the meantime, monitor your symptoms and seek immediate medical attention if they worsen or if you experience any severe symptoms such as difficulty breathing or chest pain.",S,S
+77,"28. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 67 years
+Gender: Male
+Cancer diagnosis: Stage IV prostate cancer
+PMH: Hypertension, diabetes, osteoarthritis
+Prior cancer treatments: intermittent androgen deprivation therapy (last 4 months ago)
+Current cancer treatments: None
+Current medication list: Amlodipine, metformin, insulin, aspirin
+Summary of most recent oncology visit (2 months ago): 67-year-old male with a history of Stage IV prostate cancer on intermittent androgen deprivation therapy. Will continue to monitor PSA and will re-image in 2 months.
+
+Patient message:
+I've been experiencing worsening left hip pain. Should I be concerned that my cancer is worsening?
+","The provided information is helpful, but to better assess your situation and provide recommendations, I would need additional information from your EHR. Specifically, I would need to know:
+
+1. Your most recent PSA levels and any trends in these levels over time.
+2. The results of any recent imaging studies (e.g., bone scans, CT scans, or MRIs) to evaluate the status of your cancer and any potential metastases.
+3. Any recent changes in your medications or treatments that could potentially be contributing to your hip pain.
+
+Once I have this information, I can provide a more informed recommendation. In the meantime, it is important to discuss your worsening hip pain with your oncologist, as they will be able to evaluate your situation and determine if further investigation or intervention is necessary.",S,S
+78,"29. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 68 years
+Gender: Female
+Cancer diagnosis: Stage IB1 cervical squamous cell carcinoma
+PMH: Hypothyroidism, osteoporosis
+Prior cancer treatments: Radical hysterectomy followed by adjuvant radiotherapy with concurrent cisplatin (completed 9 months ago)
+Current cancer treatments: None
+Current medication list: Levothyroxine, alendronate, calcium supplement
+Summary of most recent oncology visit (5 months ago): 68-year-old female with a history of FIGO Stage IB1 cervical cancer s/p surgery and chemotherapy presents for follow-up. Patient is without evidence of disease recurrence. She has not been using the vaginal dilator, and dilator use was encouraged. 
+
+Patient message:
+I've been experiencing vaginal dryness and discomfort during intercourse. Do you have any recommendations to help?
+","Yes, the provided information is sufficient to answer the patient's question.
+
+Recommendations for vaginal dryness and discomfort during intercourse:
+
+1. Lubricants: Over-the-counter water-based lubricants can help reduce friction and discomfort during intercourse. Apply the lubricant to the vaginal opening and the penis or sex toy before intercourse.
+
+2. Vaginal moisturizers: These are available over-the-counter and can help maintain vaginal moisture. Apply the moisturizer regularly, as per the product instructions, even when you're not engaging in sexual activity.
+
+3. Vaginal dilator use: Continue using the vaginal dilator as recommended during your last oncology visit. Regular use of the dilator can help prevent vaginal shortening and narrowing, which can contribute to discomfort during intercourse.
+
+4. Pelvic floor exercises: Practicing pelvic floor exercises, such as Kegel exercises, can help improve muscle tone and reduce discomfort during intercourse.
+
+5. Communication: Talk openly with your partner about your discomfort and explore different positions or activities that may be more comfortable for you.
+
+6. Follow-up with your healthcare provider: If the above recommendations do not provide relief, or if your symptoms worsen, schedule an appointment with your healthcare provider to discuss other potential treatment options.
+
+Please remember that these recommendations are general and it's important to consult with your healthcare provider before starting any new treatments or therapies.",S,S
+79,"30. Sample Given (Surveillance - specific chemo):
+
+EHR Context:
+Age: 56 years
+Gender: Male
+Cancer diagnosis: Stage IIIA esophageal adenocarcinoma
+PMH: Gastroesophageal reflux disease (GERD), hypertension
+Prior cancer treatments: Chemoradiation therapy followed by esophagectomy (completed 1 year ago)
+Current cancer treatments: None
+Current medication list: Omeprazole, amlodipine, lisinopril
+Summary of most recent oncology visit (6 weeks ago): 56-year-old male with a history of Stage IIIA esophageal cancer s/p chemoradiation therapy and surgery presents for follow-up. Patient is without evidence of disease recurrence. 
+
+Patient message:
+I've been having difficulty swallowing. What should I do to feel better?
+","The provided information is sufficient to address the patient's concern about difficulty swallowing. 
+
+Recommendations:
+
+1. Schedule an appointment with your primary care physician or oncologist to discuss your symptoms and evaluate the cause of your difficulty swallowing. This could be related to post-surgical complications, GERD, or other factors.
+
+2. In the meantime, try eating smaller, more frequent meals and avoid lying down immediately after eating to help reduce the risk of reflux.
+
+3. Continue taking your omeprazole as prescribed, as it can help manage GERD symptoms.
+
+4. You may also try over-the-counter antacids for temporary relief, but consult your healthcare provider before starting any new medications.
+
+5. If you experience any sudden worsening of symptoms, weight loss, or difficulty keeping food down, contact your healthcare provider immediately.
+
+Remember, it is essential to discuss your symptoms with your healthcare provider to determine the cause and appropriate treatment.",S,S
+80,"Sample 1 (Surveillance):
+EHR Context:
+Age: 55 years
+Gender: Male
+Cancer diagnosis: Stage IIIB non-small cell lung cancer
+PMH: hypertension, hyperlipidemia
+Prior cancer treatments: chemotherapy and radiation (completed 8 months ago)
+Current cancer treatments: None
+Current medication list: lisinopril, atorvastatin, aspirin, albuterol inhaler
+Summary of most recent oncology visit (2 months ago): 55-year-old male with a history of Stage IIIB non-small cell lung cancer s/p chemotherapy and radiation presents for follow-up 8 months post-treatment. He is clinically and radiographically without evidence of recurrence. Will continue ongoing surveillance.
+
+Patient message:
+I've been experiencing shortness of breath and a persistent cough for the past week. I tried using my inhaler, but it doesn't seem to help. Should I be concerned about my symptoms? Do I need to schedule an appointment with you?
+","Yes, the provided information is sufficient to answer the patient's questions.
+
+Recommendations:
+
+1. It is important to monitor any new or worsening symptoms, especially in the context of your history of non-small cell lung cancer. While your symptoms may not necessarily indicate a recurrence, it is essential to rule out any potential issues.
+
+2. Since your albuterol inhaler is not providing relief, it would be a good idea to schedule an appointment with your oncologist to discuss your symptoms further. They may recommend additional tests or imaging to ensure there is no evidence of recurrence or other complications.
+
+3. In the meantime, monitor your symptoms and note any changes or additional symptoms that may arise. This information will be helpful for your oncologist during your appointment.
+
+4. It is also recommended to reach out to your primary care physician, as they may be able to provide additional guidance or treatment for your shortness of breath and persistent cough, which could be related to other respiratory issues.",S,G
+81,"Sample 2 (Surveillance):
+EHR Context:
+Age: 48 years
+Gender: Female
+Cancer diagnosis: Stage IIA breast cancer
+PMH: hypothyroidism, anxiety
+Prior cancer treatments: lumpectomy and radiation therapy (completed 6 months ago)
+Current cancer treatments: None
+Current medication list: levothyroxine, sertraline, multivitamin
+Summary of most recent oncology visit (3 months ago): 48-year-old female with a history of Stage IIA breast cancer s/p lumpectomy and radiation therapy presents for follow-up 6 months post-treatment. She is clinically and radiographically without evidence of recurrence. Will continue ongoing surveillance.
+
+Patient message:
+I noticed some swelling and redness in my arm on the same side as my surgery. It's been like this for a few days now. Is this something I should be worried about? Should I come in for a check-up?
+","Yes, the provided information is sufficient to answer the patient's questions.
+
+Recommendations:
+
+Dear [Patient's Name],
+
+I understand your concern about the swelling and redness in your arm. It is possible that you may be experiencing lymphedema, which is a common side effect of breast cancer surgery and radiation therapy. Lymphedema is a buildup of lymphatic fluid that can cause swelling in the arm, hand, or chest area on the side of the surgery.
+
+Given your history of Stage IIA breast cancer, lumpectomy, and radiation therapy, I recommend that you schedule an appointment with your oncologist or primary care physician as soon as possible to have the swelling and redness evaluated. They will be able to determine if it is lymphedema or another issue and recommend appropriate treatment or management strategies.
+
+In the meantime, try to keep your arm elevated when possible and avoid any heavy lifting or strenuous activities with the affected arm. You can also gently massage the area to help promote lymphatic drainage.
+
+Please do not hesitate to reach out if you have any further questions or concerns.
+
+Sincerely,
+
+[Your Name]
+Oncologist",S,G
+82,"Sample 3 (Surveillance):
+EHR Context:
+Age: 67 years
+Gender: Male
+Cancer diagnosis: Stage II colorectal cancer
+PMH: type 2 diabetes, osteoarthritis
+Prior cancer treatments: surgery and adjuvant chemotherapy (completed 10 months ago)
+Current cancer treatments: None
+Current medication list: metformin, glipizide, celecoxib, calcium, vitamin D
+Summary of most recent oncology visit (1 month ago): 67-year-old male with a history of Stage IVA colorectal cancer s/p surgery and adjuvant chemotherapy presents for follow-up 10 months post-treatment. He is clinically and radiographically without evidence of recurrence. Will continue ongoing surveillance.
+
+Patient message:
+I've been experiencing abdominal pain and bloating for the past week. It's been getting worse, and over-the-counter medications aren't helping. Should I come in for an evaluation? Is this a sign of recurrence?
+","Dear [Patient Name],
+
+I understand your concerns about the abdominal pain and bloating you've been experiencing. While it is not possible to determine the cause of your symptoms without a proper evaluation, it is important to address any new or worsening symptoms, especially given your history of colorectal cancer.
+
+I recommend scheduling an appointment with your healthcare provider to discuss your symptoms and undergo a thorough evaluation. This may include a physical examination, blood tests, and imaging studies to determine the cause of your abdominal pain and bloating. It is important to remember that there are many potential causes for these symptoms, and they may not necessarily indicate a recurrence of your cancer.
+
+In the meantime, please continue to monitor your symptoms and reach out to your healthcare provider if they worsen or if you have any additional concerns.
+
+Best regards,
+
+[Your Name]
+
+[Your Title]",S,G
+83,"Sample 4 (Surveillance):
+EHR Context:
+Age: 52 years
+Gender: Female
+Cancer diagnosis: Stage IIIC ovarian cancer
+PMH: hypertension, depression
+Prior cancer treatments: surgery and chemotherapy (completed 1 year ago)
+Current cancer treatments: None
+Current medication list: amlodipine, fluoxetine, ibuprofen
+Summary of most recent oncology visit (3 months ago): 52-year-old female with a history of Stage IIIC ovarian cancer s/p surgery and chemotherapy presents for follow-up 1 year post-treatment. She is clinically and radiographically without evidence of recurrence. Will continue ongoing surveillance.
+
+Patient message:
+I've been feeling very fatigued and have had a low-grade fever for the past few days. I'm worried that my cancer might be coming back. Should I schedule an appointment to discuss my symptoms?
+","Dear [Patient Name],
+
+I understand your concerns about your recent symptoms of fatigue and low-grade fever. It's important to monitor any changes in your health, especially given your history of ovarian cancer. However, these symptoms can also be caused by various other factors, such as infections or side effects of medications.
+
+Given your last oncology visit was three months ago and you were without evidence of recurrence at that time, it's essential to keep an eye on your symptoms. If your fever persists or worsens, or if you develop any new symptoms, I recommend scheduling an appointment with your primary care physician for an evaluation. They can help determine if your symptoms are related to your cancer history or if there is another cause.
+
+In the meantime, continue to monitor your symptoms and take care of yourself by staying hydrated, getting enough rest, and managing your stress levels. If you have any further concerns or questions, please don't hesitate to reach out.
+
+Sincerely,
+
+[Your Name]
+
+[Your Title]",S,G
+84,"Sample 5 (Surveillance):
+EHR Context:
+Age: 45 years
+Gender: Male
+Cancer diagnosis: Stage IIB testicular cancer
+PMH: asthma, seasonal allergies
+Prior cancer treatments: orchiectomy and chemotherapy (completed 2 years ago)
+Current cancer treatments: None
+Current medication list: montelukast, fluticasone propionate, cetirizine
+Summary of most recent oncology visit (6 months ago): 45-year-old male with a history of Stage IIB testicular cancer s/p orchiectomy and chemotherapy presents for follow-up 2 years post-treatment. He is clinically and radiographically without evidence of recurrence. Will continue ongoing surveillance.
+
+Patient message:
+I've noticed some swelling and discomfort in my remaining testicle. It's been going on for about a week now. Is this something I should be concerned about? Do I need to come in for an examination?
+","Yes, the provided information is sufficient to answer the patient's questions.
+
+Dear [Patient's Name],
+
+I understand your concern about the swelling and discomfort in your remaining testicle. While it may not necessarily be a sign of cancer recurrence, it is important to have it evaluated promptly. I recommend scheduling an appointment with your oncologist or primary care physician for a physical examination and further evaluation. They may also order imaging tests, such as an ultrasound, to assess the cause of the swelling and discomfort.
+
+In the meantime, monitor your symptoms and note any changes or worsening of the swelling and discomfort. Please do not hesitate to reach out if you have any further questions or concerns.
+
+Best regards,
+[Your Name]",S,G
+85,"Sample 6 (Surveillance):
+EHR Context:
+Age: 58 years
+Gender: Male
+Cancer diagnosis: favorable intermediate risk prostate cancer
+PMH: benign prostatic hyperplasia, type 2 diabetes
+Prior cancer treatments: radical prostatectomy (completed 1 year ago)
+Current cancer treatments: None
+Current medication list: tamsulosin, metformin, aspirin
+Summary of most recent oncology visit (3 months ago): 58-year-old male with a history of favorable intermediate risk prostate cancer s/p radical prostatectomy presents for follow-up 1 year post-treatment. He is clinically and radiographically without evidence of recurrence. Will continue ongoing surveillance.
+
+Patient message:
+I've been experiencing frequent urination and discomfort during urination for the past few days. Is this something I should be worried about? Should I schedule an appointment to discuss my symptoms?
+","The provided information is sufficient to address the patient's concerns.
+
+Recommendations:
+
+1. It is not uncommon for patients to experience urinary symptoms such as frequent urination and discomfort during urination after a radical prostatectomy. However, since it has been a year since your surgery, it is important to evaluate the cause of these symptoms.
+
+2. Your medical history includes benign prostatic hyperplasia (BPH), which can also cause urinary symptoms. Your current medication, tamsulosin, is used to manage BPH symptoms. It is possible that your BPH symptoms are not well-controlled, or there could be another cause for your symptoms.
+
+3. Given your symptoms and medical history, it would be a good idea to schedule an appointment with your healthcare provider to discuss your symptoms and determine the appropriate course of action. They may want to perform a physical examination, review your medications, and possibly order some tests to rule out any infection or other causes of your symptoms.
+
+4. In the meantime, continue taking your medications as prescribed and monitor your symptoms. If you notice any significant changes or worsening of your symptoms, contact your healthcare provider immediately.",S,G
+86,"Sample 7 (Surveillance):
+EHR Context:
+Age: 63 years
+Gender: Female
+Cancer diagnosis: Stage II endometrial cancer
+PMH: hypertension, osteoporosis
+Prior cancer treatments: hysterectomy and radiation therapy (completed 18 months ago)
+Current cancer treatments: None
+Current medication list: lisinopril, alendronate, calcium, vitamin D
+Summary of most recent oncology visit (4 months ago): 63-year-old female with a history of Stage II endometrial cancer s/p hysterectomy and radiation therapy presents for follow-up 18 months post-treatment. She is clinically and radiographically without evidence of recurrence. Will continue ongoing surveillance.
+
+Patient message:
+I've been experiencing lower back pain and some vaginal bleeding for the past week. I'm concerned that my cancer might be coming back. Should I schedule an appointment to discuss my symptoms?
+","Yes, the provided information is sufficient to answer the patient's questions.
+
+Recommendations:
+
+1. It is important to schedule an appointment with your oncologist as soon as possible to discuss your symptoms. Although you have been without evidence of recurrence at your last visit, the new symptoms of lower back pain and vaginal bleeding warrant further evaluation.
+
+2. In the meantime, keep track of the severity and frequency of your symptoms, as well as any other new or unusual symptoms you may experience. This information will be helpful for your oncologist during your appointment.
+
+3. Continue taking your prescribed medications (lisinopril, alendronate, calcium, and vitamin D) as directed, unless advised otherwise by your healthcare provider.
+
+Remember that it is always better to address any concerns you have with your healthcare team, as they can provide personalized guidance based on your medical history and current condition.",S,G
+87,"Sample 8 (Surveillance):
+EHR Context:
+Age: 70 years
+Gender: Male
+Cancer diagnosis: Stage IIIA bladder cancer
+PMH: coronary artery disease, chronic kidney disease
+Prior cancer treatments: transurethral resection of bladder tumor, neoadjuvant chemotherapy, and cystectomy(completed 9 months ago)
+Current cancer treatments: None
+Current medication list: aspirin, atorvastatin, metoprolol, furosemide
+Summary of most recent oncology visit (2 months ago): 70-year-old male with a history of Stage IIIA bladder cancer s/p transurethral resection , neoadjuvant chemotherapy, and radical cystectomy presents for follow-up 9 months post-treatment. He is clinically and radiographically without evidence of recurrence. Will continue ongoing surveillance.
+
+Patient message:
+I've been experiencing increased urinary frequency and urgency for the past few days. I'm worried that my cancer might be coming back. Should I schedule an appointment to discuss my symptoms?
+","Dear [Patient Name],
+
+I understand your concerns about the increased urinary frequency and urgency you've been experiencing. It's important to address any new symptoms you may have. While it's possible that these symptoms could be related to your cancer, they could also be due to other causes, such as a urinary tract infection or side effects from your medications.
+
+Given your history of Stage IIIA bladder cancer and the treatments you've undergone, it's important to stay vigilant about any changes in your health. I recommend scheduling an appointment with your healthcare provider to discuss your symptoms and determine the appropriate next steps. They may want to perform additional tests or imaging to rule out any recurrence of cancer or identify other potential causes for your symptoms.
+
+In the meantime, please continue to monitor your symptoms and reach out to your healthcare provider if they worsen or if you develop any new concerns.
+
+Best regards,
+
+[Your Name]
+
+Is the provided information sufficient to answer the patient questions? If so please provide recommendations, else please inform me what other information you need from EHR. Please think carefully step by step.",S,G
+88,"Sample 9 (Surveillance):
+EHR Context:
+Age: 50 years
+Gender: Female
+Cancer diagnosis: Stage IIB melanoma
+PMH: hypothyroidism, seasonal allergies
+Prior cancer treatments: wide local excision and sentinel lymph node biopsy (completed 6 months ago)
+Current cancer treatments: None
+Current medication list: levothyroxine, cetirizine, ibuprofen
+Summary of most recent oncology visit (3 months ago): 50-year-old female with a history of Stage IIB melanoma s/p wide local excision and sentinel lymph node biopsy presents for follow-up 6 months post-treatment. She is clinically and radiographically without evidence of recurrence. Will continue ongoing surveillance.
+
+Patient message:
+I noticed a new mole on my arm that has been changing in size and color over the past month. I'm concerned that it might be another melanoma. Should I schedule an appointment to have it checked out?
+","Yes, the provided information is sufficient to answer the patient's question.
+
+Recommendation: Given your history of Stage IIB melanoma and the recent changes in the mole on your arm, it is important to have it evaluated by a healthcare professional. I recommend scheduling an appointment with your dermatologist or oncologist as soon as possible to have the mole examined. Early detection and treatment are crucial in managing melanoma.",S,G
+89,"Sample 10 (Surveillance):
+EHR Context:
+Age: 65 years
+Gender: Male
+Cancer diagnosis: Stage IVA head and neck cancer
+PMH: COPD, GERD
+Prior cancer treatments: surgery, radiation therapy, and chemotherapy (completed 1 year ago)
+Current cancer treatments: None
+Current medication list: tiotropium, omeprazole, acetaminophen
+Summary of most recent oncology visit (3 months ago): 65-year-old male with a history of Stage IVA head and neck cancer s/p surgery, radiation therapy, and chemotherapy presents for follow-up 1 year post-treatment. He is clinically and radiographically without evidence of recurrence. Will continue ongoing surveillance.
+
+Patient message:
+I've been experiencing difficulty swallowing and a sore throat for the past two weeks. I'm worried that my cancer might be coming back. Should I schedule an appointment to discuss my symptoms?
+","Yes, the provided information is sufficient to answer the patient's question.
+
+Recommendation: Given your history of Stage IVA head and neck cancer and the recent onset of difficulty swallowing and a sore throat, it would be prudent to schedule an appointment with your oncologist to discuss your symptoms. While these symptoms may be unrelated to your cancer, it is important to have them evaluated to rule out any potential recurrence or complications related to your previous treatments. Your oncologist will likely perform a physical examination and may order additional tests or imaging to further assess your symptoms.",S,G
+90,"Sample 11 (Surveillance):
+EHR Context:
+Age: 60 years
+Gender: Female
+Cancer diagnosis: resectable pancreatic cancer
+PMH: type 2 diabetes, hypertension
+Prior cancer treatments: surgery and adjuvant chemotherapy (completed 8 months ago)
+Current cancer treatments: None
+Current medication list: metformin, lisinopril, atorvastatin
+Summary of most recent oncology visit (2 months ago): 60-year-old female with a history of resectable pancreatic cancer s/p surgery and adjuvant chemotherapy presents for follow-up 8 months post-treatment. She is clinically and radiographically without evidence of recurrence. Will continue ongoing surveillance.
+
+Patient message:
+I've been experiencing persistent abdominal pain and nausea for the past week. I'm concerned that my cancer might be coming back. Should I schedule an appointment to discuss my symptoms?
+","Yes, the provided information is sufficient to answer the patient's question.
+
+Recommendations:
+
+Dear [Patient's Name],
+
+I understand your concern about the abdominal pain and nausea you've been experiencing. While it's possible that these symptoms could be unrelated to your cancer, it's important to address any new or persistent symptoms with your healthcare team. I recommend scheduling an appointment with your oncologist to discuss your symptoms and determine if any further evaluation or testing is needed. In the meantime, please monitor your symptoms and report any significant changes or worsening to your healthcare team.
+
+Sincerely,
+
+[Your Name]
+Oncologist",S,G
+91,"Sample 12 (surveillance):
+Sample Given 1:
+EHR Context:
+Age: 54 years
+Gender: Male
+Cancer diagnosis: Stage II colon adenocarcinoma
+PMH: hypertension, gastroesophageal reflux disease (GERD)
+Prior cancer treatments: Laparoscopic colectomy (completed 3 months ago)
+Current cancer treatments: Adjuvant CAPEOX chemotherapy (initiated 1 month ago)
+Current medication list: amlodipine, omeprazole, acetaminophen, ASA, oxaliplatin, capecitabine
+Summary of most recent oncology visit (1 month ago): 54 year old male with a history of Stage II colon adenocarcinoma s/p laparoscopic colectomy. Post-operative pathology showed clear margins and no nodal involvement. Initiated adjuvant CAPEOX chemotherapy to minimize risk of recurrence. Will continue follow-up every 2 weeks with a focus on monitoring toxicity and tolerability.
+
+Patient message:
+Hi doctor, I'm feeling extremely fatigued lately, and I've also developed a rash on my hands and feet. Is it a side effect of chemotherapy? What can I do to manage these symptoms? Should I be worried about it?","Dear [Patient's Name],
+
+The fatigue and rash you're experiencing can indeed be side effects of the CAPEOX chemotherapy regimen. The rash on your hands and feet may be a specific side effect called hand-foot syndrome. To manage the fatigue, make sure you're getting enough rest, staying hydrated, and maintaining a balanced diet. You can also try some light physical activity like walking to help improve your energy levels.
+
+For the rash on your hands and feet, try applying a fragrance-free moisturizer frequently, avoid exposure to hot water, and protect your hands and feet by wearing gloves and comfortable shoes. If your symptoms are severe or worsen, please contact our office, as we might need to adjust your chemotherapy regimen or dosage.
+
+There is no immediate need for worry, but make sure to report your symptoms and any changes during our next appointment or if they become more severe.
+
+Best regards,
+[Your Name, Oncologist]",S,G
+92,"EHR Context:
+Age: 47 years
+Gender: Female
+Cancer diagnosis: Stage IV malignant melanoma with lung metastases
+PMH: no significant history
+Prior cancer treatments: Excisional biopsy (2 years ago), targeted therapy (discontinued)
+Current cancer treatments: Pembrolizumab (initiated 4 months ago)
+Current medication list: loratadine, ibuprofen, acetaminophen, vitamin D
+Summary of most recent oncology visit (1 month ago): 47 year old female with Stage IV malignant melanoma presents for immunotherapy management. Prior targeted therapy discontinued due to limited response. Maintaining on pembrolizumab. Imaging last month showed stable disease with no new metastases.
+
+Patient message:
+I woke up today with joint pain in my knees and wrists. It's making it difficult for me to do everyday tasks, and I am worried about it. Is this related to my ongoing pembrolizumab treatment? What can I do to alleviate the pain? Should I stop the immunotherapy?
+","Based on the provided information, it is possible to provide a preliminary response to the patient's message, although a complete evaluation and in-person consultation may be necessary to determine the best course of action. From the information given, the joint pain may be related to the pembrolizumab treatment. Joint pain is a known side effect of immunotherapy drugs, including pembrolizumab.
+
+Here is a possible response to the patient:
+
+Dear Patient,
+
+I'm sorry to hear about the joint pain you're experiencing. Joint pain can be a side effect of pembrolizumab. However, it's essential to evaluate other possible causes such as arthritis or unrelated underlying medical conditions.
+
+You can try using over-the-counter pain relief medication, like ibuprofen or acetaminophen, to help alleviate the pain. You can also try applying a warm or cold pack to your joints for relief.
+
+Please make an appointment to see me in the clinic as soon as possible so we can assess your symptoms and discuss any necessary adjustments to your treatment plan. It is important not to stop or modify your pembrolizumab treatment without consulting your oncologist.
+
+Sincerely,
+
+Your Oncologist",S,G
+93,"Sample 14 (Surveillance):
+EHR Context:
+Age: 54 years
+Gender: Male
+Cancer diagnosis: Stage IIIA colon cancer
+PMH: hypertension, hyperlipidemia
+Prior cancer treatments: surgery and adjuvant chemotherapy (completed 9 months ago)
+Current cancer treatments: None
+Current medication list: lisinopril, atorvastatin, aspirin
+Summary of most recent oncology visit (2 months ago): 54-year-old male with a history of Stage IIIA colon cancer s/p surgery and adjuvant chemotherapy presents for follow-up 9 months post-treatment. He is clinically and radiographically without evidence of recurrence. Will continue ongoing surveillance.
+
+Patient message:
+I've been experiencing changes in my bowel habits and rectal bleeding for the past week. I'm worried that my cancer might be coming back. Should I schedule an appointment to discuss my symptoms?
+","Yes, the provided information is sufficient to answer the patient's question.
+
+Recommendation: It is important to address any new symptoms, especially given your history of colon cancer. I recommend scheduling an appointment with your oncologist to discuss your symptoms and determine if further evaluation is necessary. It is possible that these symptoms may not be related to cancer recurrence, but it is essential to rule out any potential issues and ensure your ongoing health.",S,G
+94,"Sample 15 (Surveillance):
+EHR Context:
+Age: 47 years
+Gender: Female
+Cancer diagnosis: Stage IIA breast cancer
+PMH: hypothyroidism, depression
+Prior cancer treatments: mastectomy and radiation therapy (completed 6 months ago)
+Current cancer treatments: None
+Current medication list: levothyroxine, sertraline, ibuprofen
+Summary of most recent oncology visit (3 months ago): 47-year-old female with a history of Stage IIA breast cancer s/p mastectomy and radiation therapy presents for follow-up 6 months post-treatment. She is clinically and radiographically without evidence of recurrence. Will continue ongoing surveillance.
+
+Patient message:
+I've been experiencing swelling and pain in my arm on the same side as my surgery. It's been like this for a few days now. Is this something I should be worried about? Should I come in for a check-up?
+","Yes, the provided information is sufficient to answer the patient's questions.
+
+Recommendations:
+
+1. It is possible that the swelling and pain in your arm could be related to lymphedema, a common side effect of breast cancer surgery and radiation therapy. Lymphedema occurs when the lymphatic system is damaged or blocked, causing fluid to build up and leading to swelling.
+
+2. I would recommend that you schedule an appointment with your oncologist or primary care physician to evaluate the swelling and pain in your arm. They can help determine the cause and recommend appropriate treatment options.
+
+3. In the meantime, try to keep your arm elevated when possible and avoid heavy lifting or strenuous activities with the affected arm. You can also consider wearing a compression sleeve to help reduce swelling. However, it is essential to consult with your healthcare provider before starting any new treatments.
+
+4. Continue to monitor your symptoms and report any changes or worsening to your healthcare provider.",S,G
+95,"Sample 16 (Surveillance):
+EHR Context:
+Age: 68 years
+Gender: Male
+Cancer diagnosis: Stage III gastric cancer
+PMH: type 2 diabetes, osteoarthritis
+Prior cancer treatments: surgery and peri-operative chemotherapy (completed 10 months ago)
+Current cancer treatments: None
+Current medication list: metformin, glipizide, celecoxib, calcium, vitamin D
+Summary of most recent oncology visit (1 month ago): 68-year-old male with a history of Stage III gastric cancer s/p surgery and peri-operative chemotherapy presents for follow-up 10 months post-treatment. He is clinically and radiographically without evidence of recurrence. Will continue ongoing surveillance.
+
+Patient message:
+I've been experiencing persistent heartburn and indigestion for the past two weeks. I'm concerned that my cancer might be coming back. Should I schedule an appointment to discuss my symptoms?
+","Yes, the provided information is sufficient to answer the patient's question.
+
+Recommendation:
+It's understandable that you are concerned about your symptoms, given your history of gastric cancer. While it's possible that these symptoms could be unrelated to your cancer, it's important to discuss them with your oncologist to rule out any potential recurrence. I recommend scheduling an appointment with your oncologist to discuss your symptoms and determine if any further evaluation or testing is needed. In the meantime, you may want to keep a symptom diary to track the frequency and severity of your heartburn and indigestion, as well as any potential triggers. This information can be helpful for your oncologist during your appointment.",S,G
+96,"Sample 17 (Surveillance):
+EHR Context:
+Age: 53 years
+Gender: Female
+Cancer diagnosis: Stage IIIC endometrial cancer
+PMH: hypertension, obesity
+Prior cancer treatments: chemoradiotherapy (completed 1 year ago)
+Current cancer treatments: None
+Current medication list: lisinopril, metformin, aspirin
+Summary of most recent oncology visit (3 months ago): 53-year-old female with a history of Stage IIIC endometrial cancer s/p chemoradiotherapy presents for follow-up 1 year post-treatment. She is clinically and radiographically without evidence of recurrence. Will continue ongoing surveillance.
+
+Patient message:
+I've been experiencing pelvic pain and some vaginal bleeding for the past week. I'm concerned that my cancer might be coming back. Should I schedule an appointment to discuss my symptoms?
+","Yes, the provided information is sufficient to answer the patient's questions.
+
+Recommendations:
+
+1. It is important to schedule an appointment with your oncologist as soon as possible to discuss your symptoms. Pelvic pain and vaginal bleeding can be concerning, especially given your history of Stage IIIC endometrial cancer.
+
+2. Your oncologist may recommend further evaluation, including a physical examination and imaging studies, to determine if there is any evidence of cancer recurrence.
+
+3. In the meantime, continue taking your prescribed medications (lisinopril, metformin, and aspirin) as directed, and monitor your symptoms. If the pain or bleeding worsens or if you develop any new symptoms, contact your healthcare team immediately.
+
+Remember, it is always better to address any concerns you have about your health promptly, especially when you have a history of cancer. Your healthcare team is there to support you and help you manage your health.",S,G
+97,"Sample 18 (Surveillance):
+EHR Context:
+Age: 59 years
+Gender: Male
+Cancer diagnosis: Stage IIIB non-small cell lung cancer
+PMH: COPD, GERD
+Prior cancer treatments: chemotherapy and radiation therapy (completed 8 months ago)
+Current cancer treatments: None
+Current medication list: tiotropium, omeprazole, acetaminophen
+Summary of most recent oncology visit (2 months ago): 59-year-old male with a history of Stage IIIB non-small cell lung cancer s/p chemotherapy and radiation therapy presents for follow-up 8 months post-treatment. He is clinically and radiographically without evidence of recurrence. Will continue ongoing surveillance.
+
+Patient message:
+I've been experiencing shortness of breath and a persistent cough for the past week. I tried using my inhaler, but it doesn't seem to help. Should I be concerned about my symptoms? Do I need to schedule an appointment with you?
+","Yes, the provided information is sufficient to answer the patient's questions.
+
+Recommendations:
+
+Dear [Patient's Name],
+
+I understand that you are experiencing shortness of breath and a persistent cough for the past week. Given your history of COPD and lung cancer, it is important to monitor these symptoms closely. Although your most recent oncology visit showed no evidence of recurrence, it is still essential to address any new or worsening symptoms.
+
+I recommend scheduling an appointment with your primary care physician or pulmonologist to evaluate your symptoms further. They can determine if the shortness of breath and cough are related to your COPD or if there is another cause that needs to be addressed. If they believe it is necessary, they may refer you back to our oncology clinic for further evaluation.
+
+In the meantime, please continue to use your inhaler as prescribed and monitor your symptoms. If you experience any significant worsening of your symptoms or develop additional symptoms such as chest pain, fever, or unexplained weight loss, please seek medical attention promptly.
+
+Best regards,
+
+[Your Name]
+[Your Title]",S,G
+98,"Sample 19 (Surveillance):
+EHR Context:
+Age: 64 years
+Gender: Female
+Cancer diagnosis: Stage IIA cervical cancer
+PMH: hypothyroidism, diabetes
+Prior cancer treatments: chemoradiotherapy (completed 1 year ago)
+Current cancer treatments: None
+Current medication list: levothyroxine, metformin, acetaminophen, aspirin, atorvastatin, vitamin D
+Summary of most recent oncology visit (6 weeks ago): 64-year-old female with a history of Stage IIA cervical cancer s/p definitive cisplatin-based chemoradiation presents for follow-up one year post-treatment. She is clinically and radiographically without evidence of recurrence. Will continue ongoing surveillance.
+
+Patient message:
+I've been experiencing persistent pelvic pain for the past two weeks. I tried ibuprofen, but it didn't help much. What should I do to feel better? Do I need to go to the emergency room?
+","Dear [Patient Name],
+
+I'm sorry to hear that you've been experiencing persistent pelvic pain. Based on the information provided, you have a history of Stage IIA cervical cancer and completed chemoradiotherapy one year ago. Your most recent oncology visit, which was six weeks ago, showed no evidence of recurrence.
+
+While it's important to monitor any new or persistent symptoms, it's not possible to determine the exact cause of your pelvic pain without further evaluation. Pelvic pain can be caused by various factors, including gastrointestinal, gynecological, or musculoskeletal issues.
+
+Given your history, I recommend scheduling an appointment with your oncologist or primary care physician as soon as possible to discuss your symptoms and determine the appropriate next steps. They may want to perform a physical examination, order imaging studies, or conduct other tests to identify the cause of your pain.
+
+In the meantime, you can continue to take over-the-counter pain relievers as directed, such as acetaminophen, which you are already taking. If your pain becomes severe or is accompanied by other concerning symptoms, such as fever, chills, or heavy vaginal bleeding, please seek immediate medical attention or go to the emergency room.
+
+Please don't hesitate to reach out if you have any further questions or concerns.
+
+Sincerely,
+
+[Your Name]",S,G
+99,"Sample 20 (Surveillance):
+EHR Context:
+Age: 57 years
+Gender: Male
+Cancer diagnosis: Stage IIB testicular cancer
+PMH: asthma, seasonal allergies
+Prior cancer treatments: orchiectomy and chemotherapy (completed 2 years ago)
+Current cancer treatments: None
+Current medication list: montelukast, fluticasone propionate, cetirizine
+Summary of most recent oncology visit (6 months ago): 57-year-old male with a history of Stage IIB testicular cancer s/p orchiectomy and chemotherapy presents for follow-up 2 years post-treatment. He is clinically and radiographically without evidence of recurrence. Will continue ongoing surveillance.
+
+Patient message:
+I've noticed some swelling and discomfort in my remaining testicle. It's been going on for about a week now. Is this something I should be concerned about? Do I need to come in for an examination?
+
+
+
+","Yes, the provided information is sufficient to answer the patient's questions.
+
+Recommendations:
+
+Dear [Patient's Name],
+
+I understand that you are experiencing swelling and discomfort in your remaining testicle for about a week now. While it may not necessarily be a cause for immediate concern, it is essential to have it evaluated, given your history of testicular cancer.
+
+Please schedule an appointment with our office as soon as possible so that we can perform a physical examination and any necessary imaging studies to determine the cause of the swelling and discomfort. Early evaluation and intervention are crucial in addressing any potential issues.
+
+In the meantime, if the swelling or discomfort worsens or if you develop any additional symptoms, please do not hesitate to reach out to our office or seek immediate medical attention.
+
+Best regards,
+
+[Your Name]
+[Your Title]",S,G
