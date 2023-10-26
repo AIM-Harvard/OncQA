@@ -17,6 +17,7 @@ Investigate the acceptability, safety, and potential human factors issues when u
 - Informed consent was obtained.
 - Participants were blinded to the source of the drafts.
 - Surveys were undertaken for every scenario/response.
+  ![Workflow Diagram](imgs/workflow.png)
 
 ### Settings
 
@@ -35,7 +36,6 @@ Employment of GPT-4, an AI chatbot, for drafting responses to patient inquiries.
 - Evaluate the impact and utility of an AI chatbot in assisting responses to patient messages.
 - Impact was determined by comparing response length and readability, using the Flesch reading ease score, and content.
 - Utility was ascertained through physician feedback on surveys regarding acceptability, potential harm, and efficiency of chatbot-crafted drafts.
-  ![Workflow Diagram](imgs/workflow.png)
 
 ### Results
 
