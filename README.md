@@ -62,12 +62,21 @@ AI-generated chatbot responses, while lengthier and less accessible, were overal
 ### About this repo
 
 - `Data/content_grading` contains all of the content grading done by physician DSB. 56 is the dual annotated ones while 44 were the single annotated ones.
-- `Data/original_questions_gpt4_outputs` contains all the patient scenarios and gpt4 raw responses. 
+- `Data/original_questions_gpt4_outputs` contains all the patient scenarios and gpt4 raw responses.
 - `Data/parsed_data` contains all the stage1 and stage2 parsed data.
 - `Data/stage1_responses` were the physicians raw responses in docx.
 - `Data/stage2_responses` were the physicians raw responses in docx.
 
-<!-- # Citation:
-  `OncQA: The Impact of Using an AI Chatbot to Respond to Patient Questions
-Shan Chen, Benjamin H Kann, Michael B Foote, Hugo JWL Aerts, Guergana K Savova, Raymond H Mak, Danielle S Bitterman
-JAMA Oncology. Published online August 24, 2023. doi:10.1001/jamaoncol.2023.2954` -->
+# Citation:
+```
+@misc{chen2023impact,
+title={The impact of using an AI chatbot to respond to patient messages},
+author={Shan Chen and Marco Guevara and Shalini Moningi and Frank Hoebers and Hesham Elhalawani and Benjamin H. Kann and Fallon E. Chipidza and Jonathan Leeman and Hugo J. W. L. Aerts and Timothy Miller and Guergana K. Savova and Raymond H. Mak and Maryam Lustberg and Majid Afshar and Danielle S. Bitterman},
+year={2023},
+eprint={2310.17703},
+archivePrefix={arXiv},
+primaryClass={cs.CL}
+}
+```
+
+
