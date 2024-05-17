@@ -1,4 +1,4 @@
-## OncQA: The Impact of Using an AI Chatbot to Respond to Patient Messages
+## OncQA: The effect of using a large language model to respond to patient messages
 
 ### Importance
 
@@ -70,7 +70,7 @@ AI-generated chatbot responses, while lengthier and less accessible, were overal
 # Citation:
 ```
 @misc{chen2023impact,
-title={The impact of using an AI chatbot to respond to patient messages},
+title={The effect of using a large language model to respond to patient messages},
 author={Shan Chen and Marco Guevara and Shalini Moningi and Frank Hoebers and Hesham Elhalawani and Benjamin H. Kann and Fallon E. Chipidza and Jonathan Leeman and Hugo J. W. L. Aerts and Timothy Miller and Guergana K. Savova and Raymond H. Mak and Maryam Lustberg and Majid Afshar and Danielle S. Bitterman},
 year={2023},
 eprint={2310.17703},
